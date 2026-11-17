@@ -16,7 +16,8 @@ st.markdown("""
       padding:1.6rem 2rem;border-radius:18px;margin-bottom:1rem}
 .hero h1{margin:0;font-size:2.1rem;color:#FFF4E0}
 .hero p{margin:.3rem 0 0;opacity:.9}
-div[data-testid="stMetric"]{background:#fff;border:1px solid #EAD9C3;border-radius:14px;padding:.8rem 1rem}
+div[data-testid="stMetric"] *{color:#2B1B17 !important}
+.insight, .insight *{color:#2B1B17 !important}
 .insight{background:#F6EBDD;border-left:5px solid #B3261E;padding:.7rem 1rem;border-radius:8px;margin-top:.4rem}
 </style>
 <div class="hero">
