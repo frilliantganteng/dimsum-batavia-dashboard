@@ -1,0 +1,1619 @@
+id_transaksi,tanggal,mitra,kota,produk,qty,harga_satuan,total_nominal,metode_pembayaran,status
+DB-00001,2026-01-01 11:10:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,Tunai,berhasil 
+DB-00002,2026-01-01 12:08:00,Kedai Sentosa,Tangerang,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-00003,2026-01-01 12:56:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-00004,2026-01-01 18:45:00,Kantin Mawar,Depok,Bakpao Daging,4,15000,60000.0,Transfer Bank,Berhasil
+DB-00005,2026-01-02 12:35:00,Warung Harmoni,Pekalongan,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Berhasil
+DB-00006,2026-01-02 14:01:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,17,20000,340000.0,Virtual Account,Berhasil
+DB-00007,2026-01-02 18:46:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,15,24000,360000.0,QRIS,Berhasil
+DB-00008,2026-01-03 09:59:00,Kantin Mawar,Depok,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-00009,2026-01-03 11:48:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,14,16000,224000.0,Virtual Account,Gagal
+DB-00010,2026-01-03 12:48:00,Toko Pelangi,Bogor,Xiao Long Bao,5,28000,140000.0,,Gagal
+DB-00011,2026-01-03 13:06:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Berhasil
+DB-00012,2026-01-03 17:44:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00013,2026-01-03 18:48:00,Toko Pelangi,Bogor,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Berhasil
+DB-00014,2026-01-03 18:51:00,Kantin Mawar,Depok,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00015,2026-01-04 16:23:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,16,16000,256000.0,Virtual Account,Berhasil
+DB-00016,2026-01-04 18:24:00,Kedai Sentosa,Tangerang,Bakpao Coklat,6,13000,78000.0,QRIS,Berhasil
+DB-00017,2026-01-05 15:43:00,Warung Bahari,Bekasi,Xiao Long Bao,5,28000,140000.0,Transfer Bank,Berhasil
+DB-00018,2026-01-05 21:30:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-00019,2026-01-06 11:04:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-00020,2026-01-06 18:26:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,10,13000,130000.0,Virtual Account,Gagal
+DB-00021,2026-01-07 12:14:00,  Dimsum Kota Tua ,Jakarta Barat,Bakpao Coklat,6,13000,78000.0,QRIS,Berhasil
+DB-00022,2026-01-07 21:00:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,Berhasil
+DB-00023,2026-01-08 13:43:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,10,20000,200000.0,QRIS,Berhasil
+DB-00024,2026-01-08 18:36:00,Warung Bahari,Bekasi,Siomay Ayam,2,18000,36000.0,Virtual Account,Berhasil
+DB-00025,2026-01-08 18:47:00,Kantin Mawar,Depok,Pangsit Goreng,7,14000,98000.0,Transfer Bank,Berhasil
+DB-00026,2026-01-09 12:18:00,Kedai Sentosa,Tangerang,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00027,2026-01-09 12:40:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-00028,2026-01-09 19:22:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,3,24000,72000.0,Virtual Account,Berhasil
+DB-00029,2026-01-10 11:42:00,Kantin Mawar,Depok,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-00030,2026-01-10 13:57:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,9,20000,180000.0,Transfer Bank,Gagal
+DB-00031,2026-01-10 15:42:00,Warung Bahari,Bekasi,Xiao Long Bao,1,28000,28000.0,QRIS,Berhasil
+DB-00032,2026-01-10 16:47:00,Kantin Mawar,Depok,Pangsit Goreng,4,14000,56000.0,Tunai,Berhasil
+DB-00033,2026-01-10 17:54:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,Virtual Account,Berhasil
+DB-00034,2026-01-10 18:45:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,7,14000,98000.0,Transfer Bank,Berhasil
+DB-00035,2026-01-10 19:03:00,Kedai Sentosa,Tangerang,Pangsit Goreng,4,14000,56000.0,Virtual Account,Berhasil
+DB-00036,2026-01-10 20:07:00,Warung Harmoni,Pekalongan,Siomay Ayam,8,18000,144000.0,QRIS,Berhasil
+DB-00037,2026-01-11 11:04:00,Kedai Sentosa,Tangerang,Bakpao Daging,7,15000,105000.0,Transfer Bank,Berhasil
+DB-00038,2026-01-11 19:42:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,7,16000,112000.0,Tunai,Gagal
+DB-00039,2026-01-12 13:30:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,13,28000,364000.0,QRIS,Berhasil
+DB-00040,2026-01-12 14:22:00,Kedai Sentosa,Tangerang,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-00041,2026-01-12 17:44:00,Warung Bahari,Bekasi,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-00042,2026-01-13 10:30:00,Warung Harmoni,Pekalongan,Bakpao Coklat,8,13000,104000.0,QRIS,Berhasil
+DB-00043,2026-01-13 14:43:00,Kantin Mawar,Depok,Bakpao Daging,4,15000,60000.0,Virtual Account,Pending
+DB-00044,2026-01-13 17:05:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-00045,2026-01-15 12:08:00,Toko Pelangi,Bogor,Cakar Ayam Saus,11,20000,220000.0,QRIS,Berhasil
+DB-00046,2026-01-15 12:24:00,Toko Pelangi,Bogor,Siomay Ayam,2,18000,36000.0,QRIS,Berhasil
+DB-00047,2026-01-15 14:36:00,Kedai Sentosa,Tangerang,Siomay Ayam,3,18000,54000.0,Transfer Bank,Berhasil
+DB-00048,2026-01-15 17:39:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,5,18000,90000.0,Virtual Account,Berhasil
+DB-00049,2026-01-16 11:02:00,Warung Bahari,Bekasi,Bakpao Daging,6,15000,90000.0,Virtual Account,Berhasil
+DB-00050,2026-01-16 11:39:00,Kedai Sentosa,Tangerang,Xiao Long Bao,6,28000,168000.0,QRIS,Berhasil
+DB-00051,2026-01-16 11:54:00,Warung Bahari,Bekasi,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-00052,2026-01-16 18:02:00,Depot Lestari,Semarang,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00053,2026-01-17 11:03:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Berhasil
+DB-00054,2026-01-17 12:30:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,12,14000,168000.0,Tunai,Berhasil
+DB-00055,2026-01-17 13:16:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,10,24000,240000.0,QRIS,Berhasil
+DB-00056,2026-01-17 15:08:00,Warung Bahari,Bekasi,Bakpao Coklat,2,13000,26000.0,QRIS,Berhasil
+DB-00057,2026-01-17 16:17:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,4,15000,60000.0,Tunai,Berhasil
+DB-00058,2026-01-17 17:54:00,Warung Harmoni,Pekalongan,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-00059,2026-01-17 19:52:00,Kantin Mawar,Depok,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-00060,2026-01-17 21:54:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,4,16000,64000.0,Tunai,Berhasil
+DB-00061,2026-01-18 12:35:00,toko pelangi,Bogor,Cakar Ayam Saus,11,20000,220000.0,Transfer Bank,Berhasil
+DB-00062,2026-01-18 14:36:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,pending 
+DB-00063,2026-01-18 16:11:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-00064,2026-01-18 16:25:00,Kantin Mawar,Depok,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-00065,2026-01-18 17:25:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,4,16000,64000.0,Virtual Account,Berhasil
+DB-00066,2026-01-18 21:21:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,13,16000,208000.0,QRIS,Berhasil
+DB-00067,2026-01-19 17:55:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,8,24000,192000.0,Virtual Account,Berhasil
+DB-00068,2026-01-19 20:56:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00069,2026-01-20 15:37:00,Warung Harmoni,Pekalongan,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-00070,2026-01-20 18:50:00,Toko Pelangi,Bogor,Pangsit Goreng,2,14000,,QRIS,Pending
+DB-00071,2026-01-20 21:09:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,7,18000,126000.0,Transfer Bank,Berhasil
+DB-00072,2026-01-21 11:11:00,Warung Harmoni,Pekalongan,Bakpao Daging,3,15000,45000.0,QRIS,Gagal
+DB-00073,2026-01-21 11:21:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Berhasil
+DB-00074,2026-01-21 11:32:00,Kedai Sentosa,Tangerang,Xiao Long Bao,9,28000,252000.0,Tunai,Pending
+DB-00075,2026-01-21 12:18:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Berhasil
+DB-00076,2026-01-21 13:36:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,15,20000,300000.0,QRIS,Berhasil
+DB-00077,2026-01-21 20:13:00,Depot Lestari,Semarang,Hakau Udang,12,24000,288000.0,Tunai,Berhasil
+DB-00078,2026-01-22 12:08:00,Kedai Sentosa,Tangerang,Siomay Ayam,5,18000,90000.0,Virtual Account,Berhasil
+DB-00079,2026-01-22 13:11:00,Warung Harmoni,Pekalongan,Pangsit Goreng,4,14000,56000.0,Transfer Bank,Gagal
+DB-00080,2026-01-22 13:48:00,Warung Harmoni,Pekalongan,Hakau Udang,5,24000,120000.0,QRIS,Pending
+DB-00081,2026-01-22 18:17:00,Kedai Sentosa,Tangerang,Siomay Ayam,1,18000,18000.0,QRIS,Berhasil
+DB-00082,2026-01-22 18:40:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-00083,2026-01-22 19:48:00,Warung Bahari,Bekasi,Pangsit Goreng,1,14000,14000.0,Transfer Bank,Pending
+DB-00084,2026-01-22 20:26:00,Kedai Sentosa,Tangerang,Bakpao Daging,3,15000,45000.0,Transfer Bank,Berhasil
+DB-00085,2026-01-23 11:20:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,3,16000,48000.0,Virtual Account,Gagal
+DB-00086,2026-01-23 12:37:00,Kedai Sentosa,Tangerang,Hakau Udang,6,24000,144000.0,Transfer Bank,Berhasil
+DB-00087,2026-01-23 21:20:00,Depot Lestari,Semarang,Pangsit Goreng,8,14000,112000.0,Virtual Account,Berhasil
+DB-00088,2026-01-24 10:00:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00089,2026-01-24 11:17:00,Warung Harmoni,Pekalongan,Bakpao Coklat,7,13000,91000.0,QRIS,Berhasil
+DB-00090,2026-01-24 13:11:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,18,16000,288000.0,QRIS,Berhasil
+DB-00091,2026-01-24 14:33:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-00092,2026-01-24 16:28:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Berhasil
+DB-00093,2026-01-24 18:14:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,7,18000,126000.0,Tunai,Berhasil
+DB-00094,2026-01-25 14:00:00,Warung Harmoni,Pekalongan,Hakau Udang,8,24000,192000.0,QRIS,Berhasil
+DB-00095,2026-01-25 16:18:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,11,13000,143000.0,QRIS,Berhasil
+DB-00096,2026-01-25 18:25:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,Tunai,Berhasil
+DB-00097,2026-01-25 19:12:00,Warung Bahari,Bekasi,Pangsit Goreng,1,14000,14000.0,Tunai,Pending
+DB-00098,2026-01-26 14:44:00,Kedai Sentosa,Tangerang,Xiao Long Bao,7,28000,196000.0,QRIS,Pending
+DB-00099,2026-01-26 15:52:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Berhasil
+DB-00100,2026-01-26 17:06:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,15,16000,240000.0,Transfer Bank,Berhasil
+DB-00101,2026-01-26 17:08:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-00102,2026-01-27 12:11:00,Kedai Sentosa,Tangerang,Bakpao Daging,6,15000,90000.0,QRIS,Berhasil
+DB-00103,2026-01-28 11:04:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,2,13000,26000.0,QRIS,Berhasil
+DB-00104,2026-01-28 12:34:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,9,15000,135000.0,QRIS,Berhasil
+DB-00105,2026-01-28 14:20:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00106,2026-01-28 19:04:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,4,15000,60000.0,Virtual Account,Pending
+DB-00107,2026-01-28 20:47:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-00108,2026-01-29 12:16:00,Warung Harmoni,Pekalongan,Siomay Ayam,8,18000,144000.0,QRIS,Pending
+DB-00109,2026-01-30 11:40:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00110,2026-01-30 16:38:00,Kantin Mawar,Depok,Xiao Long Bao,7,28000,196000.0,Virtual Account,Berhasil
+DB-00111,2026-01-30 18:39:00,Depot Lestari,Semarang,Hakau Udang,13,24000,312000.0,Transfer Bank,Berhasil
+DB-00112,2026-02-01 09:52:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,9,28000,252000.0,QRIS,Berhasil
+DB-00113,2026-02-01 19:23:00,Depot Lestari,Semarang,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-00114,2026-02-02 19:50:00,Toko Pelangi,Bogor,Pangsit Goreng,5,14000,70000.0,Virtual Account,Berhasil
+DB-00115,2026-02-02 21:24:00,Kedai Sentosa,Tangerang,Hakau Udang,7,24000,168000.0,Tunai,Berhasil
+DB-00116,2026-02-03 11:12:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,5,16000,80000.0,,Gagal
+DB-00117,2026-02-03 18:08:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,9,13000,117000.0,Virtual Account,Berhasil
+DB-00118,2026-02-04 10:58:00,Warung Bahari,Bekasi,Bakpao Daging,2,15000,30000.0,Virtual Account,Berhasil
+DB-00119,2026-02-04 11:00:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,Transfer Bank,Berhasil
+DB-00120,2026-02-04 12:22:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,19,13000,247000.0,QRIS,Berhasil
+DB-00121,2026-02-04 15:17:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,5,24000,120000.0,Tunai,Berhasil
+DB-00122,2026-02-04 18:09:00,Warung Harmoni,Pekalongan,Xiao Long Bao,8,28000,224000.0,Transfer Bank,Berhasil
+DB-00123,2026-02-05 17:41:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-00124,2026-02-06 11:51:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-00125,2026-02-06 12:17:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-00126,2026-02-06 12:55:00,Warung Harmoni,Pekalongan,Bakpao Coklat,2,13000,26000.0,Tunai,Berhasil
+DB-00127,2026-02-06 19:52:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-00128,2026-02-07 11:24:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,9,14000,126000.0,Tunai,Berhasil
+DB-00129,2026-02-07 13:52:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,11,20000,220000.0,Virtual Account,Pending
+DB-00130,2026-02-07 16:49:00,Kantin Mawar,Depok,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00131,2026-02-07 18:09:00,Kedai Sentosa,Tangerang,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00132,2026-02-07 21:31:00,Warung Bahari,Bekasi,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00133,2026-02-08 11:13:00,Warung Bahari,Bekasi,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-00134,2026-02-08 11:31:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,6,24000,144000.0,Virtual Account,Berhasil
+DB-00135,2026-02-08 12:48:00,Kantin Mawar,Depok,Bakpao Daging,2,15000,30000.0,Transfer Bank,Pending
+DB-00136,2026-02-08 15:13:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,5,24000,120000.0,Virtual Account,Berhasil
+DB-00137,2026-02-08 15:23:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,9,20000,180000.0,Transfer Bank,Pending
+DB-00138,2026-02-08 15:43:00,Warung Bahari,Bekasi,Cakar Ayam Saus,1,20000,20000.0,QRIS,Berhasil
+DB-00139,2026-02-08 17:50:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,7,20000,140000.0,Tunai,Berhasil
+DB-00140,2026-02-08 18:29:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,3,13000,39000.0,Transfer Bank,Berhasil
+DB-00141,2026-02-08 19:29:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,10,28000,280000.0,QRIS,Berhasil
+DB-00142,2026-02-08 19:40:00,Warung Harmoni,Pekalongan,Bakpao Daging,6,15000,90000.0,Tunai,Berhasil
+DB-00143,2026-02-08 20:30:00,Depot Lestari,Semarang,Hakau Udang,11,24000,264000.0,QRIS,Berhasil
+DB-00144,2026-02-08 21:30:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,8,15000,120000.0,Transfer Bank,Berhasil
+DB-00145,2026-02-09 09:47:00,Kantin Mawar,Depok,Hakau Udang,6,24000,144000.0,QRIS,berhasil 
+DB-00146,2026-02-09 20:21:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,4,16000,64000.0,Transfer Bank,Berhasil
+DB-00147,2026-02-10 13:22:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,15,20000,300000.0,QRIS,Berhasil
+DB-00148,2026-02-10 16:34:00,  Kedai Sentosa ,Tangerang,Hakau Udang,6,24000,144000.0,Transfer Bank,Berhasil
+DB-00149,2026-02-10 17:16:00,Kantin Mawar,Depok,Cakar Ayam Saus,7,20000,140000.0,QRIS,Berhasil
+DB-00150,2026-02-10 17:28:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,16,14000,224000.0,QRIS,Berhasil
+DB-00151,2026-02-11 12:04:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,7,14000,98000.0,Tunai,Berhasil
+DB-00152,2026-02-11 15:30:00,Kantin Mawar,Depok,Cakar Ayam Saus,5,20000,100000.0,Virtual Account,Berhasil
+DB-00153,2026-02-11 18:37:00,Kantin Mawar,Depok,Cakar Ayam Saus,7,20000,140000.0,QRIS,Gagal
+DB-00154,2026-02-11 21:08:00,Warung Bahari,Bekasi,Bakpao Coklat,12,13000,156000.0,Transfer Bank,Berhasil
+DB-00155,2026-02-12 10:50:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,12,18000,216000.0,Transfer Bank,Berhasil
+DB-00156,2026-02-12 12:30:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,23,14000,322000.0,Virtual Account,Berhasil
+DB-00157,2026-02-12 12:31:00,Toko Pelangi,Bogor,Bakpao Daging,2,15000,30000.0,Tunai,Berhasil
+DB-00158,2026-02-12 14:47:00,Toko Pelangi,Bogor,Bakpao Coklat,2,13000,26000.0,QRIS,Berhasil
+DB-00159,2026-02-12 19:59:00,Depot Lestari,Semarang,Bakpao Coklat,8,13000,104000.0,Tunai,Berhasil
+DB-00160,2026-02-13 11:02:00,Warung Harmoni,Pekalongan,Xiao Long Bao,9,28000,252000.0,Transfer Bank,Pending
+DB-00161,2026-02-13 13:38:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,13,13000,169000.0,Transfer Bank,Berhasil
+DB-00162,2026-02-13 14:32:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,Virtual Account,Berhasil
+DB-00163,2026-02-13 16:17:00,KEDAI SENTOSA,Tangerang,Siomay Ayam,5,18000,90000.0,Transfer Bank,Gagal
+DB-00164,2026-02-13 19:26:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,9,15000,135000.0,QRIS,Gagal
+DB-00165,2026-02-14 11:40:00,Kedai Sentosa,Tangerang,Siomay Ayam,2,18000,36000.0,Virtual Account,Berhasil
+DB-00166,2026-02-14 13:23:00,Kedai Sentosa,Tangerang,Xiao Long Bao,2,28000,56000.0,Transfer Bank,Berhasil
+DB-00167,2026-02-14 13:24:00,Kantin Mawar,Depok,Pangsit Goreng,4,14000,56000.0,Transfer Bank,Pending
+DB-00168,2026-02-14 17:50:00,Kedai Sentosa,Tangerang,Xiao Long Bao,9,28000,252000.0,Transfer Bank,Gagal
+DB-00169,2026-02-14 18:08:00,Warung Bahari,Bekasi,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00170,2026-02-14 18:18:00,Toko Pelangi,Bogor,Siomay Ayam,8,18000,144000.0,Transfer Bank,Berhasil
+DB-00171,2026-02-14 19:10:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,3,13000,39000.0,Virtual Account,Berhasil
+DB-00172,2026-02-14 19:47:00,Warung Bahari,Bekasi,Siomay Ayam,5,18000,90000.0,Transfer Bank,Berhasil
+DB-00173,2026-02-14 20:12:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-00174,2026-02-15 10:29:00,Depot Lestari,Semarang,Bakpao Daging,2,15000,30000.0,Transfer Bank,Berhasil
+DB-00175,2026-02-15 10:45:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,8,16000,128000.0,Transfer Bank,Gagal
+DB-00176,2026-02-15 15:38:00,Kedai Sentosa,Tangerang,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-00177,2026-02-15 19:59:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,5,20000,100000.0,Tunai,Pending
+DB-00178,2026-02-16 11:59:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,Transfer Bank,Pending
+DB-00179,2026-02-16 16:27:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Gagal
+DB-00180,2026-02-16 17:08:00,Toko Pelangi,Bogor,Bakpao Coklat,12,13000,156000.0,Transfer Bank,Berhasil
+DB-00181,2026-02-16 19:09:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-00182,2026-02-16 19:17:00,Kedai Sentosa,Tangerang,Bakpao Coklat,9,13000,117000.0,Transfer Bank,Berhasil
+DB-00183,2026-02-17 11:13:00,Warung Bahari,Bekasi,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-00184,2026-02-17 13:44:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,4,15000,60000.0,Virtual Account,Berhasil
+DB-00185,2026-02-17 18:35:00,Warung Bahari,Bekasi,Xiao Long Bao,3,28000,84000.0,Tunai,Berhasil
+DB-00186,2026-02-17 19:59:00,Kedai Sentosa,Tangerang,Siomay Ayam,1,18000,18000.0,Transfer Bank,Berhasil
+DB-00187,2026-02-17 20:18:00,Toko Pelangi,Bogor,Bakpao Daging,1,15000,15000.0,QRIS,Berhasil
+DB-00188,2026-02-17 21:14:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,4,14000,56000.0,Virtual Account,Berhasil
+DB-00189,2026-02-18 12:59:00,Toko Pelangi,Bogor,Pangsit Goreng,5,14000,70000.0,Virtual Account,Berhasil
+DB-00190,2026-02-18 13:20:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,8,15000,120000.0,QRIS,Berhasil
+DB-00191,2026-02-18 13:22:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,5,15000,75000.0,QRIS,Pending
+DB-00192,2026-02-18 14:17:00,Kantin Mawar,Depok,Pangsit Goreng,7,14000,98000.0,QRIS,Berhasil
+DB-00193,2026-02-19 12:22:00,Kantin Mawar,Depok,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00194,2026-02-19 14:05:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,12,20000,240000.0,Tunai,Berhasil
+DB-00195,2026-02-19 18:07:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,4,24000,96000.0,Transfer Bank,Berhasil
+DB-00196,2026-02-19 18:55:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,5,20000,100000.0,Tunai,Berhasil
+DB-00197,2026-02-20 12:28:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00198,2026-02-20 15:35:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,4,18000,72000.0,QRIS,Gagal
+DB-00199,2026-02-20 16:10:00,Kedai Sentosa,Tangerang,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-00200,2026-02-20 19:00:00,Depot Lestari,Semarang,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-00201,2026-02-20 20:27:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,13,13000,169000.0,Virtual Account,Pending
+DB-00202,2026-02-20 20:42:00,Depot Lestari,Semarang,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-00203,2026-02-21 11:59:00,Warung Bahari,Bekasi,Bakpao Coklat,1,13000,13000.0,QRIS,Berhasil
+DB-00204,2026-02-21 12:27:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,10,16000,160000.0,QRIS,Berhasil
+DB-00205,2026-02-21 14:31:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,7,28000,196000.0,Transfer Bank,Berhasil
+DB-00206,2026-02-21 14:47:00,Warung Bahari,Bekasi,Bakpao Daging,7,15000,105000.0,QRIS,Berhasil
+DB-00207,2026-02-21 15:05:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Berhasil
+DB-00208,2026-02-21 16:14:00,Warung Bahari,Bekasi,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-00209,2026-02-21 19:05:00,Depot Lestari,Semarang,Bakpao Daging,4,15000,60000.0,QRIS,Berhasil
+DB-00210,2026-02-22 09:37:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-00211,2026-02-22 10:52:00,Kedai Sentosa,Tangerang,Pangsit Goreng,7,14000,98000.0,Tunai,Berhasil
+DB-00212,2026-02-22 12:02:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,Tunai,Berhasil
+DB-00213,2026-02-22 14:49:00,Warung Bahari,Bekasi,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Gagal
+DB-00214,2026-02-22 18:00:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,13,24000,312000.0,Transfer Bank,Berhasil
+DB-00215,2026-02-22 18:19:00,Depot Lestari,Semarang,Bakpao Coklat,10,13000,130000.0,Virtual Account,Pending
+DB-00216,2026-02-22 18:28:00,Toko Pelangi,Bogor,Bakpao Coklat,6,13000,78000.0,Virtual Account,Berhasil
+DB-00217,2026-02-22 19:10:00,Toko Pelangi,Bogor,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-00218,2026-02-23 09:01:00,Toko Pelangi,Bogor,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00219,2026-02-23 10:50:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-00220,2026-02-23 19:13:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00221,2026-02-23 19:19:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,3,13000,39000.0,Virtual Account,Berhasil
+DB-00222,2026-02-24 17:17:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,2,24000,48000.0,QRIS,Berhasil
+DB-00223,2026-02-25 12:00:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,1,13000,13000.0,QRIS,Berhasil
+DB-00224,2026-02-25 12:52:00,Toko Pelangi,Bogor,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-00225,2026-02-25 16:00:00,Kantin Mawar,Depok,Bakpao Daging,2,15000,30000.0,Transfer Bank,Berhasil
+DB-00226,2026-02-25 18:45:00,Depot Lestari,Semarang,Hakau Udang,11,24000,264000.0,Transfer Bank,Berhasil
+DB-00227,2026-02-25 18:57:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,Virtual Account,Berhasil
+DB-00228,2026-02-25 19:47:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,14,28000,392000.0,QRIS,Berhasil
+DB-00229,2026-02-25 20:06:00,Warung Harmoni,Pekalongan,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-00230,2026-02-26 12:27:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,7,18000,126000.0,QRIS,Berhasil
+DB-00231,2026-02-26 14:20:00,Warung Bahari,Bekasi,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Berhasil
+DB-00232,2026-02-26 15:29:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,5,16000,80000.0,Tunai,Berhasil
+DB-00233,2026-02-26 19:08:00,Toko Pelangi,Bogor,Siomay Ayam,10,18000,180000.0,QRIS,Berhasil
+DB-00234,2026-02-26 19:10:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,16,28000,448000.0,QRIS,Berhasil
+DB-00235,2026-02-26 19:29:00,Kantin Mawar,Depok,Siomay Ayam,5,18000,90000.0,Tunai,Berhasil
+DB-00236,2026-02-27 12:21:00,Toko Pelangi,Bogor,Hakau Udang,6,24000,144000.0,QRIS,Berhasil
+DB-00237,2026-02-27 12:30:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Berhasil
+DB-00238,2026-02-27 12:52:00,Kantin Mawar,Depok,Bakpao Daging,4,15000,60000.0,QRIS,Gagal
+DB-00239,2026-02-27 13:47:00,Warung Bahari,Bekasi,Xiao Long Bao,6,28000,168000.0,QRIS,Berhasil
+DB-00240,2026-02-27 16:16:00,Depot Lestari,Semarang,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-00241,2026-02-27 18:19:00,Kantin Mawar,Depok,Siomay Ayam,1,18000,18000.0,QRIS,Berhasil
+DB-00242,2026-02-28 10:16:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,4,16000,64000.0,Transfer Bank,Berhasil
+DB-00243,2026-02-28 12:33:00,Warung Bahari,Bekasi,Cakar Ayam Saus,3,20000,60000.0,QRIS,Berhasil
+DB-00244,2026-02-28 17:04:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,8,24000,192000.0,Virtual Account,Pending
+DB-00245,2026-02-28 18:55:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-00246,2026-02-28 19:28:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,17,24000,408000.0,QRIS,Berhasil
+DB-00247,2026-03-01 10:25:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,5,16000,80000.0,Virtual Account,Berhasil
+DB-00248,2026-03-01 10:45:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,15,28000,420000.0,QRIS,Gagal
+DB-00249,2026-03-01 12:44:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-00250,2026-03-01 12:56:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,3,13000,39000.0,Transfer Bank,Berhasil
+DB-00251,2026-03-01 17:24:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,2,24000,48000.0,Virtual Account,Pending
+DB-00252,2026-03-02 09:37:00,Kedai Sentosa,Tangerang,Siomay Ayam,2,18000,36000.0,QRIS,Berhasil
+DB-00253,2026-03-02 11:42:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,3,20000,60000.0,QRIS,Berhasil
+DB-00254,2026-03-02 12:03:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-00255,2026-03-02 12:14:00,Depot Lestari,Semarang,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-00256,2026-03-02 12:28:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,5,28000,140000.0,Tunai,Berhasil
+DB-00257,2026-03-02 12:40:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,15,16000,240000.0,Transfer Bank,Berhasil
+DB-00258,2026-03-02 18:14:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,2,24000,48000.0,Virtual Account,Berhasil
+DB-00259,2026-03-02 18:51:00,Depot Lestari,Semarang,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-00260,2026-03-02 18:52:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Berhasil
+DB-00261,2026-03-02 20:22:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,Virtual Account,Berhasil
+DB-00262,2026-03-02 20:57:00,Kedai Sentosa,Tangerang,Xiao Long Bao,9,28000,252000.0,Transfer Bank,Berhasil
+DB-00263,2026-03-03 11:56:00,Kantin Mawar,Depok,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-00264,2026-03-03 12:31:00,Warung Bahari,Bekasi,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-00265,2026-03-03 15:24:00,Warung Bahari,Bekasi,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-00266,2026-03-03 15:38:00,Warung Bahari,Bekasi,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00267,2026-03-03 18:51:00,Warung Bahari,Bekasi,Cakar Ayam Saus,4,20000,80000.0,Virtual Account,Gagal
+DB-00268,2026-03-04 20:14:00,Kedai Sentosa,Tangerang,Pangsit Goreng,2,14000,28000.0,Transfer Bank,Berhasil
+DB-00269,2026-03-05 11:26:00,Warung Bahari,Bekasi,Bakpao Coklat,1,13000,13000.0,Transfer Bank,Berhasil
+DB-00270,2026-03-05 17:07:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,7,15000,105000.0,Transfer Bank,Berhasil
+DB-00271,2026-03-05 17:46:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,4,14000,56000.0,Tunai,Berhasil
+DB-00272,2026-03-05 18:56:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,6,16000,96000.0,Virtual Account,Berhasil
+DB-00273,2026-03-05 20:19:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,4,20000,80000.0,QRIS,Berhasil
+DB-00274,2026-03-05 20:25:00,Depot Lestari,Semarang,Siomay Ayam,8,18000,144000.0,Transfer Bank,Berhasil
+DB-00275,2026-03-06 11:29:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,Transfer Bank,Berhasil
+DB-00276,2026-03-06 12:14:00,Kedai Sentosa,Tangerang,Xiao Long Bao,8,28000,224000.0,Virtual Account,Berhasil
+DB-00277,2026-03-06 12:33:00,Kedai Sentosa,Tangerang,Bakpao Coklat,6,13000,78000.0,QRIS,Berhasil
+DB-00278,2026-03-06 12:57:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,13,13000,169000.0,QRIS,Berhasil
+DB-00279,2026-03-06 17:08:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,3,20000,60000.0,Virtual Account,Berhasil
+DB-00280,2026-03-06 18:18:00,Depot Lestari,Semarang,Hakau Udang,9,24000,216000.0,QRIS,Berhasil
+DB-00281,2026-03-06 18:47:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,5,24000,120000.0,Virtual Account,Berhasil
+DB-00282,2026-03-06 19:01:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,20,20000,400000.0,Tunai,Berhasil
+DB-00283,2026-03-06 20:28:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,13,15000,195000.0,QRIS,Pending
+DB-00284,2026-03-07 09:25:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,1,18000,18000.0,Tunai,Pending
+DB-00285,2026-03-07 12:14:00,Kantin Mawar,Depok,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-00286,2026-03-07 13:50:00,Warung Bahari,Bekasi,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-00287,2026-03-07 14:33:00,Warung Bahari,Bekasi,Bakpao Coklat,5,13000,65000.0,Transfer Bank,Berhasil
+DB-00288,2026-03-07 15:29:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,6,20000,120000.0,Tunai,Gagal
+DB-00289,2026-03-07 19:12:00,Depot Lestari,Semarang,Cakar Ayam Saus,8,20000,160000.0,Virtual Account,Berhasil
+DB-00290,2026-03-07 20:03:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,5,14000,70000.0,QRIS,Berhasil
+DB-00291,2026-03-08 10:08:00,Kantin Mawar,Depok,Siomay Ayam,5,18000,90000.0,Tunai,Pending
+DB-00292,2026-03-08 11:20:00,Warung Bahari,Bekasi,Xiao Long Bao,4,28000,112000.0,Virtual Account,Berhasil
+DB-00293,2026-03-08 12:00:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00294,2026-03-08 12:13:00,Kantin Mawar,Depok,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-00295,2026-03-08 12:41:00,Warung Harmoni,Pekalongan,Xiao Long Bao,6,28000,168000.0,QRIS,Berhasil
+DB-00296,2026-03-08 13:19:00,Toko Pelangi,Bogor,Hakau Udang,4,24000,96000.0,Tunai,Berhasil
+DB-00297,2026-03-08 13:48:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,18,28000,504000.0,Transfer Bank,Berhasil
+DB-00298,2026-03-08 14:19:00,Kantin Mawar,Depok,Xiao Long Bao,8,28000,224000.0,Transfer Bank,Pending
+DB-00299,2026-03-08 15:21:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,19,14000,266000.0,QRIS,Pending
+DB-00300,2026-03-08 19:05:00,Toko Pelangi,Bogor,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-00301,2026-03-08 20:54:00,Kedai Sentosa,Tangerang,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00302,2026-03-08 21:52:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,13,15000,195000.0,Virtual Account,Berhasil
+DB-00303,2026-03-09 12:29:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,16,14000,224000.0,,Berhasil
+DB-00304,2026-03-09 12:48:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,11,13000,143000.0,Transfer Bank,Berhasil
+DB-00305,2026-03-09 16:40:00,Kedai Sentosa,Tangerang,Hakau Udang,1,24000,24000.0,Transfer Bank,Berhasil
+DB-00306,2026-03-09 17:20:00,Kedai Sentosa,Tangerang,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-00307,2026-03-09 19:31:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,9,28000,252000.0,Transfer Bank,Berhasil
+DB-00308,2026-03-10 13:50:00,Kantin Mawar,Depok,Siomay Ayam,8,18000,144000.0,QRIS,Gagal
+DB-00309,2026-03-10 17:20:00,Warung Bahari,Bekasi,Cakar Ayam Saus,4,20000,80000.0,Tunai,Berhasil
+DB-00310,2026-03-10 18:48:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,3,28000,84000.0,Virtual Account,Berhasil
+DB-00311,2026-03-11 12:47:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-00312,2026-03-11 15:52:00,Warung Bahari,Bekasi,Hakau Udang,4,24000,96000.0,Transfer Bank,Berhasil
+DB-00313,2026-03-12 12:55:00,  Kedai Sentosa ,Tangerang,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-00314,2026-03-12 13:09:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Berhasil
+DB-00315,2026-03-12 15:58:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,17,20000,340000.0,Transfer Bank,Pending
+DB-00316,2026-03-12 19:25:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Berhasil
+DB-00317,2026-03-12 20:22:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-00318,2026-03-13 11:45:00,Kantin Mawar,Depok,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-00319,2026-03-13 12:35:00,Toko Pelangi,Bogor,Xiao Long Bao,2,28000,56000.0,Tunai,Berhasil
+DB-00320,2026-03-13 14:00:00,Warung Bahari,Bekasi,Bakpao Coklat,1,13000,13000.0,QRIS,Berhasil
+DB-00321,2026-03-13 17:17:00,Depot Lestari,Semarang,Pangsit Goreng,10,14000,140000.0,Virtual Account,Berhasil
+DB-00322,2026-03-13 20:15:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,4,16000,64000.0,Virtual Account,Berhasil
+DB-00323,2026-03-14 12:14:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00324,2026-03-14 12:22:00,Toko Pelangi,Bogor,Xiao Long Bao,5,28000,140000.0,Virtual Account,Berhasil
+DB-00325,2026-03-14 12:45:00,Kantin Mawar,Depok,Siomay Ayam,6,18000,108000.0,QRIS,Gagal
+DB-00326,2026-03-14 15:59:00,Warung Bahari,Bekasi,Cakar Ayam Saus,3,20000,60000.0,QRIS,Berhasil
+DB-00327,2026-03-14 17:27:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,10,16000,160000.0,Transfer Bank,Berhasil
+DB-00328,2026-03-14 17:43:00,Warung Harmoni,Pekalongan,Siomay Ayam,3,18000,54000.0,Transfer Bank,Berhasil
+DB-00329,2026-03-14 17:46:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00330,2026-03-14 18:10:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,4,20000,80000.0,QRIS,Berhasil
+DB-00331,2026-03-14 18:47:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,5,15000,75000.0,QRIS,Gagal
+DB-00332,2026-03-14 20:20:00,Warung Harmoni,Pekalongan,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Berhasil
+DB-00333,2026-03-15 12:23:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Berhasil
+DB-00334,2026-03-15 12:35:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,8,16000,128000.0,Tunai,Berhasil
+DB-00335,2026-03-15 12:47:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,5,14000,70000.0,QRIS,Berhasil
+DB-00336,2026-03-15 17:07:00,Kedai Sentosa,Tangerang,Xiao Long Bao,5,28000,140000.0,Transfer Bank,Berhasil
+DB-00337,2026-03-15 17:43:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,4,15000,60000.0,QRIS,Berhasil
+DB-00338,2026-03-15 18:08:00,Kedai Sentosa,Tangerang,Hakau Udang,7,24000,168000.0,QRIS,Berhasil
+DB-00339,2026-03-15 18:33:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,12,13000,156000.0,,Berhasil
+DB-00340,2026-03-15 18:55:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,12,13000,156000.0,QRIS,Berhasil
+DB-00341,2026-03-15 19:06:00,Depot Lestari,Semarang,Bakpao Coklat,8,13000,104000.0,Transfer Bank,Berhasil
+DB-00342,2026-03-16 12:12:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,16,28000,448000.0,QRIS,Berhasil
+DB-00343,2026-03-16 12:14:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,15,15000,225000.0,Virtual Account,Berhasil
+DB-00344,2026-03-16 12:53:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-00345,2026-03-16 14:48:00,Depot Lestari,Semarang,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-00346,2026-03-16 17:19:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-00347,2026-03-16 17:42:00,Kantin Mawar,Depok,Xiao Long Bao,10,28000,280000.0,QRIS,Berhasil
+DB-00348,2026-03-16 18:47:00,Kantin Mawar,Depok,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-00349,2026-03-17 10:01:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,Virtual Account,Gagal
+DB-00350,2026-03-17 13:35:00,Toko Pelangi,Bogor,Pangsit Goreng,4,14000,56000.0,Virtual Account,Berhasil
+DB-00351,2026-03-17 21:55:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,4,15000,60000.0,Virtual Account,Berhasil
+DB-00352,2026-03-18 11:41:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,24,28000,672000.0,Transfer Bank,Berhasil
+DB-00353,2026-03-18 16:18:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,Tunai,Berhasil
+DB-00354,2026-03-18 17:07:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-00355,2026-03-18 17:08:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Berhasil
+DB-00356,2026-03-18 19:33:00,Toko Pelangi,Bogor,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-00357,2026-03-18 21:11:00,Kantin Mawar,Depok,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00358,2026-03-19 11:17:00,Warung Bahari,Bekasi,Siomay Ayam,7,18000,126000.0,Transfer Bank,Berhasil
+DB-00359,2026-03-20 12:06:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,8,13000,104000.0,QRIS,Berhasil
+DB-00360,2026-03-20 12:18:00,Depot Lestari,Semarang,Bakpao Daging,7,15000,105000.0,Transfer Bank,Berhasil
+DB-00361,2026-03-20 13:00:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Berhasil
+DB-00362,2026-03-20 13:52:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,6,16000,96000.0,Virtual Account,Berhasil
+DB-00363,2026-03-20 14:31:00,Kantin Mawar,Depok,Hakau Udang,4,24000,96000.0,Tunai,Gagal
+DB-00364,2026-03-20 17:12:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-00365,2026-03-20 18:04:00,Toko Pelangi,Bogor,Bakpao Daging,7,15000,105000.0,Transfer Bank,Pending
+DB-00366,2026-03-20 18:34:00,Kantin Mawar,Depok,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00367,2026-03-21 12:15:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,8,16000,128000.0,,Berhasil
+DB-00368,2026-03-21 12:37:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,15,13000,195000.0,Transfer Bank,Berhasil
+DB-00369,2026-03-21 17:23:00,Depot Lestari,Semarang,Pangsit Goreng,6,14000,84000.0,Tunai,Berhasil
+DB-00370,2026-03-21 17:28:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,19,18000,342000.0,Transfer Bank,Berhasil
+DB-00371,2026-03-21 19:45:00,Toko Pelangi,Bogor,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Berhasil
+DB-00372,2026-03-22 10:28:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,1,24000,24000.0,QRIS,Berhasil
+DB-00373,2026-03-22 17:38:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,19,14000,266000.0,Tunai,Berhasil
+DB-00374,2026-03-23 12:03:00,Kantin Mawar,Depok,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Gagal
+DB-00375,2026-03-23 12:04:00,Warung Bahari,Bekasi,Pangsit Goreng,1,14000,14000.0,Transfer Bank,Pending
+DB-00376,2026-03-23 13:21:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,2,28000,56000.0,Tunai,Berhasil
+DB-00377,2026-03-23 17:05:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,QRIS,Berhasil
+DB-00378,2026-03-23 18:11:00,Warung Bahari,Bekasi,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-00379,2026-03-24 11:02:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,1,16000,16000.0,Transfer Bank,Berhasil
+DB-00380,2026-03-24 12:28:00,Depot Lestari,Semarang,Xiao Long Bao,5,28000,140000.0,Virtual Account,Berhasil
+DB-00381,2026-03-24 18:15:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-00382,2026-03-24 19:15:00,Kantin Mawar,Depok,Bakpao Daging,3,15000,45000.0,Tunai,Berhasil
+DB-00383,2026-03-25 11:58:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,9,15000,135000.0,Transfer Bank,Pending
+DB-00384,2026-03-25 18:53:00,Warung Bahari,Bekasi,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-00385,2026-03-25 19:33:00,Kedai Sentosa,Tangerang,Hakau Udang,2,24000,48000.0,Virtual Account,Berhasil
+DB-00386,2026-03-25 19:54:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,4,24000,96000.0,Virtual Account,Berhasil
+DB-00387,2026-03-26 11:57:00,Kedai Sentosa,Tangerang,Bakpao Daging,2,15000,30000.0,Virtual Account,Berhasil
+DB-00388,2026-03-26 12:39:00,Toko Pelangi,Bogor,Cakar Ayam Saus,9,20000,180000.0,Virtual Account,Berhasil
+DB-00389,2026-03-26 12:52:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,1,18000,18000.0,Transfer Bank,Berhasil
+DB-00390,2026-03-26 13:29:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,2,14000,28000.0,Virtual Account,Berhasil
+DB-00391,2026-03-26 17:25:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-00392,2026-03-27 14:44:00,Kantin Mawar,Depok,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-00393,2026-03-27 17:06:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-00394,2026-03-27 19:05:00,Depot Lestari,Semarang,Pangsit Goreng,5,14000,70000.0,QRIS,Berhasil
+DB-00395,2026-03-27 19:32:00,Kedai Sentosa,Tangerang,Xiao Long Bao,6,28000,168000.0,QRIS,Berhasil
+DB-00396,2026-03-28 10:16:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,16,13000,208000.0,QRIS,Berhasil
+DB-00397,2026-03-28 11:57:00,Kantin Mawar,Depok,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00398,2026-03-28 12:08:00,Warung Bahari,Bekasi,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-00399,2026-03-28 12:26:00,Kedai Sentosa,Tangerang,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-00400,2026-03-28 13:57:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,3,15000,45000.0,Transfer Bank,Berhasil
+DB-00401,2026-03-28 15:53:00,Toko Pelangi,Bogor,Cakar Ayam Saus,8,20000,160000.0,QRIS,Berhasil
+DB-00402,2026-03-28 16:15:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-00403,2026-03-28 17:22:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,6,20000,120000.0,QRIS,Pending
+DB-00404,2026-03-28 18:43:00,GERAI SINAR JAYA,Cirebon,Bakpao Daging,5,15000,75000.0,Transfer Bank,Berhasil
+DB-00405,2026-03-28 19:38:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,9,20000,180000.0,Transfer Bank,Berhasil
+DB-00406,2026-03-28 20:06:00,Warung Bahari,Bekasi,Cakar Ayam Saus,1,20000,20000.0,Transfer Bank,Berhasil
+DB-00407,2026-03-28 20:27:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,9,14000,126000.0,Transfer Bank,Berhasil
+DB-00408,2026-03-29 12:53:00,Depot Lestari,Semarang,Hakau Udang,8,24000,192000.0,Virtual Account,Berhasil
+DB-00409,2026-03-29 13:17:00,Depot Lestari,Semarang,Siomay Ayam,7,18000,126000.0,Transfer Bank,Berhasil
+DB-00410,2026-03-29 16:52:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,7,28000,196000.0,Transfer Bank,Berhasil
+DB-00411,2026-03-29 18:24:00,Kantin Mawar,Depok,Cakar Ayam Saus,7,20000,140000.0,Tunai,Berhasil
+DB-00412,2026-03-29 18:49:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,QRIS,Berhasil
+DB-00413,2026-03-29 19:49:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,4,18000,72000.0,Tunai,Berhasil
+DB-00414,2026-03-31 09:45:00,Kantin Mawar,Depok,Cakar Ayam Saus,4,20000,80000.0,Virtual Account,Berhasil
+DB-00415,2026-03-31 11:53:00,Warung Bahari,Bekasi,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-00416,2026-03-31 16:45:00,Toko Pelangi,Bogor,Bakpao Daging,4,15000,60000.0,Tunai,Berhasil
+DB-00417,2026-03-31 18:36:00,Warung Harmoni,Pekalongan,Siomay Ayam,4,18000,72000.0,QRIS,Pending
+DB-00418,2026-03-31 19:26:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-00419,2026-03-31 20:09:00,Warung Harmoni,Pekalongan,Xiao Long Bao,4,28000,112000.0,Virtual Account,Pending
+DB-00420,2026-04-01 14:12:00,Kedai Sentosa,Tangerang,Bakpao Daging,4,15000,60000.0,Transfer Bank,Berhasil
+DB-00421,2026-04-01 17:01:00,Gerai Sinar Jaya,Cirebon,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00422,2026-04-01 21:16:00,Warung Bahari,Bekasi,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00423,2026-04-02 18:17:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-00424,2026-04-02 19:11:00,Depot Lestari,Semarang,Siomay Ayam,9,18000,162000.0,Transfer Bank,Berhasil
+DB-00425,2026-04-02 21:15:00,Warung Bahari,Bekasi,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-00426,2026-04-03 10:29:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,14,20000,280000.0,Transfer Bank,Berhasil
+DB-00427,2026-04-03 10:35:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,4,20000,80000.0,Virtual Account,Berhasil
+DB-00428,2026-04-03 11:16:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-00429,2026-04-04 13:30:00,Kantin Mawar,Depok,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00430,2026-04-04 16:52:00,Depot Lestari,Semarang,Bakpao Daging,17,15000,255000.0,QRIS,Berhasil
+DB-00431,2026-04-04 17:32:00,Toko Pelangi,Bogor,Xiao Long Bao,7,28000,196000.0,QRIS,Berhasil
+DB-00432,2026-04-04 17:38:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,Transfer Bank,Berhasil
+DB-00433,2026-04-04 19:12:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,6,24000,144000.0,Transfer Bank,Pending
+DB-00434,2026-04-04 20:10:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,12,13000,156000.0,QRIS,Berhasil
+DB-00435,2026-04-05 09:14:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,QRIS,Berhasil
+DB-00436,2026-04-05 10:47:00,Warung Bahari,Bekasi,Siomay Ayam,3,18000,54000.0,Tunai,Berhasil
+DB-00437,2026-04-05 11:25:00,Toko Pelangi,Bogor,Cakar Ayam Saus,7,20000,140000.0,Virtual Account,Berhasil
+DB-00438,2026-04-05 13:13:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,13,20000,260000.0,Tunai,Berhasil
+DB-00439,2026-04-05 20:41:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-00440,2026-04-05 21:16:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Berhasil
+DB-00441,2026-04-06 11:04:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,17,15000,255000.0,Transfer Bank,Berhasil
+DB-00442,2026-04-06 14:29:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,4,15000,60000.0,QRIS,Berhasil
+DB-00443,2026-04-06 17:56:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-00444,2026-04-06 20:13:00,Kantin Mawar,Depok,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-00445,2026-04-06 20:20:00,Depot Lestari,Semarang,Bakpao Coklat,9,13000,117000.0,Virtual Account,Berhasil
+DB-00446,2026-04-07 18:29:00,Toko Pelangi,Bogor,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-00447,2026-04-07 19:51:00,Kantin Mawar,Depok,Xiao Long Bao,5,28000,140000.0,Transfer Bank,Berhasil
+DB-00448,2026-04-08 14:26:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,18,14000,252000.0,Transfer Bank,Pending
+DB-00449,2026-04-08 16:16:00,Kedai Sentosa,Tangerang,Bakpao Daging,6,15000,90000.0,Transfer Bank,Berhasil
+DB-00450,2026-04-08 19:45:00,Gerai Sinar Jaya,Cirebon,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-00451,2026-04-09 17:56:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-00452,2026-04-09 20:25:00,Kantin Mawar,Depok,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00453,2026-04-10 11:08:00,Warung Harmoni,Pekalongan,Bakpao Daging,5,15000,75000.0,QRIS,Gagal
+DB-00454,2026-04-10 15:16:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,Transfer Bank,Berhasil
+DB-00455,2026-04-10 15:36:00,Depot Lestari,Semarang,Pangsit Goreng,16,14000,224000.0,QRIS,Berhasil
+DB-00456,2026-04-10 16:29:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,3,20000,60000.0,QRIS,Gagal
+DB-00457,2026-04-10 20:17:00,Warung Bahari,Bekasi,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-00458,2026-04-11 11:12:00,Toko Pelangi,Bogor,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-00459,2026-04-11 15:18:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,5,16000,80000.0,Virtual Account,Berhasil
+DB-00460,2026-04-11 18:31:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,Transfer Bank,Berhasil
+DB-00461,2026-04-11 18:42:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,12,28000,336000.0,QRIS,Pending
+DB-00462,2026-04-11 19:41:00,Kedai Sentosa,Tangerang,Xiao Long Bao,4,28000,112000.0,Virtual Account,Berhasil
+DB-00463,2026-04-11 20:04:00,Warung Bahari,Bekasi,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-00464,2026-04-11 20:25:00,Warung Bahari,Bekasi,Hakau Udang,7,24000,168000.0,QRIS,Pending
+DB-00465,2026-04-11 20:39:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,15,16000,240000.0,Transfer Bank,Berhasil
+DB-00466,2026-04-12 11:10:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,11,18000,198000.0,Transfer Bank,Berhasil
+DB-00467,2026-04-12 11:20:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,11,28000,308000.0,QRIS,Berhasil
+DB-00468,2026-04-12 17:50:00,Gerai Sinar Jaya,Cirebon,Bakpao Coklat,6,13000,78000.0,QRIS,Berhasil
+DB-00469,2026-04-12 18:00:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,10,14000,140000.0,Tunai,Berhasil
+DB-00470,2026-04-12 19:12:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,4,16000,64000.0,Tunai,Berhasil
+DB-00471,2026-04-13 17:19:00,Kedai Sentosa,Tangerang,Siomay Ayam,8,18000,144000.0,Transfer Bank,Berhasil
+DB-00472,2026-04-13 18:14:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-00473,2026-04-13 18:23:00,Toko Pelangi,Bogor,Pangsit Goreng,8,14000,112000.0,Tunai,Berhasil
+DB-00474,2026-04-14 11:00:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,11,16000,176000.0,QRIS,Pending
+DB-00475,2026-04-14 13:41:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,13,20000,260000.0,QRIS,Berhasil
+DB-00476,2026-04-14 17:10:00,Depot Lestari,Semarang,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-00477,2026-04-14 17:15:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00478,2026-04-14 18:37:00,Warung Harmoni,Pekalongan,Siomay Ayam,10,18000,180000.0,QRIS,Berhasil
+DB-00479,2026-04-15 18:51:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-00480,2026-04-15 19:50:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,1,14000,14000.0,Virtual Account,Berhasil
+DB-00481,2026-04-16 11:33:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,5,15000,75000.0,Tunai,Berhasil
+DB-00482,2026-04-16 13:50:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,7,28000,196000.0,Tunai,Berhasil
+DB-00483,2026-04-16 16:31:00,Kedai Sentosa,Tangerang,Pangsit Goreng,2,14000,28000.0,Tunai,Berhasil
+DB-00484,2026-04-16 18:16:00,Kedai Sentosa,Tangerang,Bakpao Coklat,3,13000,39000.0,Transfer Bank,Berhasil
+DB-00485,2026-04-16 19:51:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,6,14000,84000.0,Tunai,Berhasil
+DB-00486,2026-04-16 20:06:00,Kedai Sentosa,Tangerang,Xiao Long Bao,6,28000,168000.0,Virtual Account,Berhasil
+DB-00487,2026-04-17 12:05:00,Toko Pelangi,Bogor,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-00488,2026-04-17 13:54:00,Warung Bahari,Bekasi,Bakpao Daging,6,15000,90000.0,Transfer Bank,Berhasil
+DB-00489,2026-04-17 14:59:00,Kantin Mawar,Depok,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-00490,2026-04-17 16:19:00,Toko Pelangi,Bogor,Xiao Long Bao,6,28000,168000.0,Tunai,Berhasil
+DB-00491,2026-04-17 16:32:00,Warung Harmoni,Pekalongan,Siomay Ayam,2,18000,36000.0,QRIS,Berhasil
+DB-00492,2026-04-17 20:00:00,Toko Pelangi,Bogor,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-00493,2026-04-18 14:20:00,Warung Bahari,Bekasi,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-00494,2026-04-18 18:13:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-00495,2026-04-18 21:05:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,2,20000,40000.0,Tunai,Berhasil
+DB-00496,2026-04-19 09:45:00,Kantin Mawar,Depok,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-00497,2026-04-19 12:48:00,Warung Harmoni,Pekalongan,Bakpao Daging,3,15000,45000.0,Transfer Bank,Berhasil
+DB-00498,2026-04-19 17:01:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,1,18000,18000.0,Tunai,Pending
+DB-00499,2026-04-19 17:19:00,Warung Bahari,Bekasi,Hakau Udang,9,24000,216000.0,Transfer Bank,Gagal
+DB-00500,2026-04-19 18:48:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,Berhasil
+DB-00501,2026-04-19 21:28:00,Kedai Sentosa,Tangerang,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-00502,2026-04-20 11:43:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,16,18000,288000.0,Tunai,Berhasil
+DB-00503,2026-04-20 12:01:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,11,16000,176000.0,Tunai,Berhasil
+DB-00504,2026-04-20 12:37:00,Warung Bahari,Bekasi,Pangsit Goreng,5,14000,70000.0,Virtual Account,Berhasil
+DB-00505,2026-04-20 12:58:00,Warung Bahari,Bekasi,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00506,2026-04-20 13:32:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,1,14000,14000.0,Virtual Account,Berhasil
+DB-00507,2026-04-20 18:01:00,Warung Bahari,Bekasi,Pangsit Goreng,9,14000,126000.0,Tunai,Berhasil
+DB-00508,2026-04-20 19:34:00,Toko Pelangi,Bogor,Bakpao Coklat,8,13000,104000.0,Transfer Bank,Berhasil
+DB-00509,2026-04-21 10:05:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,8,14000,112000.0,Transfer Bank,Berhasil
+DB-00510,2026-04-21 11:09:00,Kantin Mawar,Depok,Bakpao Coklat,6,13000,78000.0,QRIS,Gagal
+DB-00511,2026-04-21 11:11:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,QRIS,Berhasil
+DB-00512,2026-04-21 12:40:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00513,2026-04-21 12:48:00,Warung Bahari,Bekasi,Siomay Ayam,7,18000,126000.0,,Gagal
+DB-00514,2026-04-21 13:34:00,Kedai Sentosa,Tangerang,Bakpao Coklat,6,13000,78000.0,Virtual Account,Berhasil
+DB-00515,2026-04-21 15:20:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,18,16000,288000.0,Transfer Bank,Berhasil
+DB-00516,2026-04-21 19:17:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,8,16000,128000.0,QRIS,Berhasil
+DB-00517,2026-04-22 12:41:00,Toko Pelangi,Bogor,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-00518,2026-04-22 12:48:00,Toko Pelangi,Bogor,Hakau Udang,6,24000,144000.0,QRIS,Berhasil
+DB-00519,2026-04-22 14:46:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,8,16000,128000.0,QRIS,Pending
+DB-00520,2026-04-22 16:26:00,Warung Harmoni,Pekalongan,Bakpao Daging,7,15000,105000.0,Transfer Bank,Gagal
+DB-00521,2026-04-22 17:43:00,Toko Pelangi,Bogor,Pangsit Goreng,9,14000,126000.0,QRIS,Berhasil
+DB-00522,2026-04-22 19:35:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00523,2026-04-23 12:02:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,11,20000,220000.0,QRIS,Berhasil
+DB-00524,2026-04-23 16:22:00,Kantin Mawar,Depok,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00525,2026-04-23 16:43:00,  Kedai Sentosa ,Tangerang,Hakau Udang,5,24000,120000.0,Virtual Account,Pending
+DB-00526,2026-04-23 18:40:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,9,16000,144000.0,Tunai,Berhasil
+DB-00527,2026-04-23 18:51:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,10,15000,150000.0,QRIS,Berhasil
+DB-00528,2026-04-23 19:23:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,17,24000,408000.0,QRIS,Pending
+DB-00529,2026-04-24 13:25:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-00530,2026-04-24 13:28:00,Depot Lestari,Semarang,Siomay Ayam,8,18000,144000.0,Transfer Bank,Berhasil
+DB-00531,2026-04-24 17:15:00,Toko Pelangi,Bogor,Hakau Udang,2,24000,48000.0,Virtual Account,pending 
+DB-00532,2026-04-24 19:51:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,5,20000,100000.0,Virtual Account,Berhasil
+DB-00533,2026-04-25 10:53:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,9,20000,180000.0,Transfer Bank,Berhasil
+DB-00534,2026-04-25 12:28:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-00535,2026-04-25 13:00:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,12,24000,288000.0,Transfer Bank,Berhasil
+DB-00536,2026-04-25 15:10:00,Kantin Mawar,Depok,Hakau Udang,6,24000,144000.0,QRIS,Berhasil
+DB-00537,2026-04-25 16:43:00,Warung Bahari,Bekasi,Bakpao Coklat,4,13000,52000.0,Tunai,Berhasil
+DB-00538,2026-04-25 20:36:00,Kantin Mawar,Depok,Bakpao Coklat,6,13000,78000.0,QRIS,Berhasil
+DB-00539,2026-04-26 09:11:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,5,20000,100000.0,QRIS,Pending
+DB-00540,2026-04-26 13:26:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Berhasil
+DB-00541,2026-04-26 15:31:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,Transfer Bank,Berhasil
+DB-00542,2026-04-26 18:41:00,  Dimsum Kota Tua ,Jakarta Barat,Cakar Ayam Saus,7,20000,140000.0,QRIS,Berhasil
+DB-00543,2026-04-26 19:53:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,18,16000,288000.0,Tunai,Berhasil
+DB-00544,2026-04-27 16:05:00,Kedai Sentosa,Tangerang,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-00545,2026-04-28 12:47:00,Toko Pelangi,Bogor,Bakpao Coklat,3,13000,39000.0,Virtual Account,Gagal
+DB-00546,2026-04-28 14:11:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Gagal
+DB-00547,2026-04-28 17:36:00,Warung Harmoni,Pekalongan,Bakpao Coklat,5,13000,65000.0,Tunai,Berhasil
+DB-00548,2026-04-28 20:40:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Berhasil
+DB-00549,2026-04-29 13:47:00,Toko Pelangi,Bogor,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00550,2026-04-29 17:01:00,Kantin Mawar,Depok,Bakpao Coklat,6,13000,78000.0,Virtual Account,Gagal
+DB-00551,2026-04-29 20:29:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,5,18000,90000.0,Virtual Account,Berhasil
+DB-00552,2026-04-30 11:53:00,Warung Bahari,Bekasi,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00553,2026-04-30 11:58:00,Warung Bahari,Bekasi,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-00554,2026-04-30 12:14:00,Kedai Sentosa,Tangerang,Siomay Ayam,8,18000,144000.0,Virtual Account,Berhasil
+DB-00555,2026-04-30 15:14:00,Warung Harmoni,Pekalongan,Hakau Udang,4,24000,96000.0,QRIS,Gagal
+DB-00556,2026-04-30 15:48:00,Warung Harmoni,Pekalongan,Xiao Long Bao,6,28000,168000.0,QRIS,Pending
+DB-00557,2026-04-30 18:50:00,Kantin Mawar,Depok,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00558,2026-05-01 12:11:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,13,15000,195000.0,Virtual Account,Berhasil
+DB-00559,2026-05-01 12:51:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-00560,2026-05-01 17:44:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,9,20000,180000.0,Transfer Bank,Berhasil
+DB-00561,2026-05-01 20:40:00,Kantin Mawar,Depok,Bakpao Daging,2,15000,30000.0,Transfer Bank,Berhasil
+DB-00562,2026-05-01 21:38:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,11,20000,220000.0,Transfer Bank,Berhasil
+DB-00563,2026-05-01 21:52:00,Kedai Sentosa,Tangerang,Bakpao Coklat,6,13000,78000.0,QRIS,Berhasil
+DB-00564,2026-05-02 16:09:00,Warung Harmoni,Pekalongan,Bakpao Coklat,1,13000,13000.0,Transfer Bank,Berhasil
+DB-00565,2026-05-03 11:39:00,Kantin Mawar,Depok,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Pending
+DB-00566,2026-05-03 16:21:00,Kedai Sentosa,Tangerang,Siomay Ayam,5,18000,90000.0,Tunai,Pending
+DB-00567,2026-05-04 11:21:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Gagal
+DB-00568,2026-05-04 12:06:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,16,15000,240000.0,Virtual Account,Berhasil
+DB-00569,2026-05-04 16:59:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,4,16000,64000.0,Tunai,Berhasil
+DB-00570,2026-05-05 11:56:00,Depot Lestari,Semarang,Pangsit Goreng,9,14000,126000.0,Virtual Account,Berhasil
+DB-00571,2026-05-05 15:25:00,Kedai Sentosa,Tangerang,Pangsit Goreng,2,14000,28000.0,QRIS,Berhasil
+DB-00572,2026-05-05 18:48:00,Depot Lestari,Semarang,Pangsit Goreng,16,14000,224000.0,Transfer Bank,Berhasil
+DB-00573,2026-05-05 21:34:00,Kantin Mawar,Depok,Bakpao Daging,3,15000,45000.0,Virtual Account,Berhasil
+DB-00574,2026-05-06 12:36:00,Kantin Mawar,Depok,Pangsit Goreng,2,14000,28000.0,Tunai,Pending
+DB-00575,2026-05-06 13:48:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,3,18000,54000.0,Virtual Account,Berhasil
+DB-00576,2026-05-07 11:56:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-00577,2026-05-07 13:32:00,Kantin Mawar,Depok,Bakpao Daging,4,15000,60000.0,Transfer Bank,Pending
+DB-00578,2026-05-07 13:45:00,Warung Bahari,Bekasi,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-00579,2026-05-07 14:00:00,Kantin Mawar,Depok,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Gagal
+DB-00580,2026-05-07 17:18:00,Warung Harmoni,Pekalongan,Bakpao Coklat,3,13000,39000.0,Transfer Bank,Berhasil
+DB-00581,2026-05-07 18:57:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,10,13000,130000.0,QRIS,Berhasil
+DB-00582,2026-05-08 11:03:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,Transfer Bank,Pending
+DB-00583,2026-05-08 16:20:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,7,28000,196000.0,Virtual Account,Berhasil
+DB-00584,2026-05-08 16:33:00,Depot Lestari,Semarang,Hakau Udang,6,24000,144000.0,Transfer Bank,Pending
+DB-00585,2026-05-08 19:07:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,11,18000,198000.0,QRIS,Berhasil
+DB-00586,2026-05-09 09:28:00,Kedai Sentosa,Tangerang,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-00587,2026-05-09 10:16:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00588,2026-05-09 10:27:00,Warung Bahari,Bekasi,Xiao Long Bao,1,28000,28000.0,QRIS,Berhasil
+DB-00589,2026-05-09 12:06:00,Kedai Sentosa,Tangerang,Pangsit Goreng,4,14000,56000.0,Virtual Account,Berhasil
+DB-00590,2026-05-09 12:50:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,8,16000,128000.0,Transfer Bank,Berhasil
+DB-00591,2026-05-09 13:32:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,2,28000,56000.0,QRIS,Berhasil
+DB-00592,2026-05-09 14:33:00,Kedai Sentosa,Tangerang,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-00593,2026-05-09 17:25:00,Kantin Mawar,Depok,Bakpao Coklat,5,13000,65000.0,Transfer Bank,Berhasil
+DB-00594,2026-05-09 18:00:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,7,16000,112000.0,,Berhasil
+DB-00595,2026-05-09 18:21:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-00596,2026-05-09 20:20:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-00597,2026-05-09 20:36:00,Kedai Sentosa,Tangerang,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00598,2026-05-10 11:42:00,Kantin Mawar,Depok,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Gagal
+DB-00599,2026-05-10 12:54:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,QRIS,Gagal
+DB-00600,2026-05-10 14:48:00,Depot Lestari,Semarang,Bakpao Coklat,9,13000,117000.0,QRIS,Berhasil
+DB-00601,2026-05-10 16:49:00,Kantin Mawar,Depok,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-00602,2026-05-10 17:14:00,Depot Lestari,Semarang,Bakpao Daging,11,15000,165000.0,Tunai,Berhasil
+DB-00603,2026-05-10 20:43:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Berhasil
+DB-00604,2026-05-11 12:08:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,Transfer Bank,Berhasil
+DB-00605,2026-05-11 15:26:00,Warung Harmoni,Pekalongan,Siomay Ayam,6,18000,108000.0,QRIS,Gagal
+DB-00606,2026-05-11 18:20:00,KEDAI SENTOSA,Tangerang,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00607,2026-05-11 18:33:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Gagal
+DB-00608,2026-05-12 18:08:00,Warung Harmoni,Pekalongan,Pangsit Goreng,5,14000,70000.0,Tunai,Berhasil
+DB-00609,2026-05-13 10:39:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,3,16000,48000.0,Tunai,Gagal
+DB-00610,2026-05-13 11:51:00,Kedai Sentosa,Tangerang,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-00611,2026-05-13 15:01:00,Kantin Mawar,Depok,Bakpao Daging,7,15000,105000.0,QRIS,Berhasil
+DB-00612,2026-05-13 17:28:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,Virtual Account,Berhasil
+DB-00613,2026-05-14 12:17:00,Kedai Sentosa,Tangerang,Hakau Udang,7,24000,168000.0,Transfer Bank,Pending
+DB-00614,2026-05-14 21:04:00,Toko Pelangi,Bogor,Bakpao Daging,6,15000,90000.0,Transfer Bank,Berhasil
+DB-00615,2026-05-15 09:04:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,12,24000,288000.0,Tunai,Berhasil
+DB-00616,2026-05-15 10:35:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,7,16000,112000.0,Tunai,Gagal
+DB-00617,2026-05-15 11:51:00,Toko Pelangi,Bogor,Pangsit Goreng,3,14000,42000.0,Virtual Account,Berhasil
+DB-00618,2026-05-15 12:45:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,Virtual Account,Pending
+DB-00619,2026-05-15 14:16:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,1,16000,16000.0,Tunai,Berhasil
+DB-00620,2026-05-15 17:31:00,Kedai Sentosa,Tangerang,Pangsit Goreng,8,14000,112000.0,QRIS,Berhasil
+DB-00621,2026-05-16 10:08:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-00622,2026-05-16 10:39:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,10,16000,160000.0,QRIS,Berhasil
+DB-00623,2026-05-16 11:15:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Pending
+DB-00624,2026-05-16 11:28:00,GERAI SINAR JAYA,Cirebon,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Berhasil
+DB-00625,2026-05-16 11:34:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,12,13000,156000.0,QRIS,Berhasil
+DB-00626,2026-05-16 11:41:00,Toko Pelangi,Bogor,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00627,2026-05-16 17:13:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00628,2026-05-16 17:26:00,Toko Pelangi,Bogor,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-00629,2026-05-16 18:15:00,Warung Bahari,Bekasi,Xiao Long Bao,9,28000,252000.0,Virtual Account,Berhasil
+DB-00630,2026-05-16 18:39:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-00631,2026-05-16 19:52:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,QRIS,Berhasil
+DB-00632,2026-05-17 09:42:00,Depot Lestari,Semarang,Xiao Long Bao,7,28000,196000.0,Tunai,Berhasil
+DB-00633,2026-05-17 11:00:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,1,28000,28000.0,,Berhasil
+DB-00634,2026-05-17 11:11:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,Tunai,Berhasil
+DB-00635,2026-05-17 14:29:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-00636,2026-05-17 15:10:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,9,15000,135000.0,Transfer Bank,Berhasil
+DB-00637,2026-05-17 17:04:00,Toko Pelangi,Bogor,Xiao Long Bao,6,28000,168000.0,QRIS,Berhasil
+DB-00638,2026-05-17 18:49:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,6,28000,168000.0,Virtual Account,Berhasil
+DB-00639,2026-05-17 19:36:00,Kedai Sentosa,Tangerang,Bakpao Daging,3,15000,45000.0,QRIS,Berhasil
+DB-00640,2026-05-17 19:39:00,Kantin Mawar,Depok,Bakpao Daging,6,15000,90000.0,Transfer Bank,Berhasil
+DB-00641,2026-05-18 12:51:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Berhasil
+DB-00642,2026-05-18 16:28:00,Kantin Mawar,Depok,Pangsit Goreng,6,14000,84000.0,Virtual Account,Pending
+DB-00643,2026-05-18 16:32:00,Warung Bahari,Bekasi,Xiao Long Bao,8,28000,224000.0,Tunai,Berhasil
+DB-00644,2026-05-18 16:59:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Gagal
+DB-00645,2026-05-18 18:05:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,7,13000,91000.0,QRIS,Berhasil
+DB-00646,2026-05-19 11:34:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,1,13000,13000.0,Virtual Account,Berhasil
+DB-00647,2026-05-19 18:20:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,10,15000,150000.0,Transfer Bank,Berhasil
+DB-00648,2026-05-19 19:09:00,Warung Harmoni,Pekalongan,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-00649,2026-05-20 12:56:00,Kedai Sentosa,Tangerang,Bakpao Coklat,1,13000,13000.0,Transfer Bank,Berhasil
+DB-00650,2026-05-20 16:16:00,Warung Bahari,Bekasi,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00651,2026-05-20 17:07:00,Toko Pelangi,Bogor,Cakar Ayam Saus,7,20000,140000.0,QRIS,Berhasil
+DB-00652,2026-05-20 19:42:00,Kedai Sentosa,Tangerang,Bakpao Daging,3,15000,45000.0,Transfer Bank,Berhasil
+DB-00653,2026-05-20 19:53:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,5,16000,80000.0,Transfer Bank,Berhasil
+DB-00654,2026-05-20 21:13:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,5,24000,120000.0,Tunai,Berhasil
+DB-00655,2026-05-21 11:40:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-00656,2026-05-21 11:52:00,Kantin Mawar,Depok,Bakpao Daging,4,15000,60000.0,QRIS,Berhasil
+DB-00657,2026-05-21 14:18:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,11,15000,165000.0,Transfer Bank,Berhasil
+DB-00658,2026-05-21 16:38:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,7,16000,112000.0,QRIS,Berhasil
+DB-00659,2026-05-22 10:35:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,6,24000,144000.0,Virtual Account,Berhasil
+DB-00660,2026-05-22 12:36:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,5,18000,90000.0,Virtual Account,Berhasil
+DB-00661,2026-05-22 12:59:00,Kantin Mawar,Depok,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00662,2026-05-22 17:48:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,2,14000,28000.0,QRIS,Berhasil
+DB-00663,2026-05-22 18:59:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,Virtual Account,Berhasil
+DB-00664,2026-05-23 10:18:00,Toko Pelangi,Bogor,Bakpao Coklat,7,13000,91000.0,Virtual Account,Berhasil
+DB-00665,2026-05-23 10:55:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,4,16000,64000.0,Tunai,Pending
+DB-00666,2026-05-23 11:01:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00667,2026-05-23 11:21:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,7,28000,196000.0,Virtual Account,Berhasil
+DB-00668,2026-05-23 12:02:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,Tunai,Gagal
+DB-00669,2026-05-23 13:09:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,Tunai,Berhasil
+DB-00670,2026-05-23 13:24:00,Warung Bahari,Bekasi,Xiao Long Bao,2,28000,56000.0,Transfer Bank,Berhasil
+DB-00671,2026-05-23 17:41:00,Warung Bahari,Bekasi,Siomay Ayam,3,18000,54000.0,Transfer Bank,Berhasil
+DB-00672,2026-05-23 20:34:00,Toko Pelangi,Bogor,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00673,2026-05-24 12:20:00,Kantin Mawar,Depok,Siomay Ayam,5,18000,90000.0,Transfer Bank,Berhasil
+DB-00674,2026-05-24 12:21:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,4,28000,112000.0,Virtual Account,Berhasil
+DB-00675,2026-05-24 12:41:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,5,24000,120000.0,QRIS,Gagal
+DB-00676,2026-05-24 15:17:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,Tunai,Gagal
+DB-00677,2026-05-24 16:24:00,Kantin Mawar,Depok,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-00678,2026-05-24 19:26:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,2,16000,32000.0,Tunai,Berhasil
+DB-00679,2026-05-24 20:03:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-00680,2026-05-25 11:24:00,Kantin Mawar,Depok,Pangsit Goreng,8,14000,112000.0,Tunai,Berhasil
+DB-00681,2026-05-25 13:49:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,5,13000,65000.0,Virtual Account,Berhasil
+DB-00682,2026-05-25 16:39:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,7,15000,105000.0,QRIS,Pending
+DB-00683,2026-05-25 18:57:00,Kantin Mawar,Depok,Pangsit Goreng,2,14000,28000.0,Virtual Account,Berhasil
+DB-00684,2026-05-26 15:44:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-00685,2026-05-26 18:36:00,Depot Lestari,Semarang,Bakpao Coklat,11,13000,143000.0,QRIS,Berhasil
+DB-00686,2026-05-26 21:26:00,Kantin Mawar,Depok,Pangsit Goreng,1,14000,14000.0,QRIS,Berhasil
+DB-00687,2026-05-27 19:15:00,Depot Lestari,Semarang,Pangsit Goreng,10,14000,140000.0,Transfer Bank,Berhasil
+DB-00688,2026-05-28 10:15:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,18,20000,360000.0,Transfer Bank,Berhasil
+DB-00689,2026-05-28 10:42:00,Kantin Mawar,Depok,Siomay Ayam,9,18000,162000.0,Tunai,Pending
+DB-00690,2026-05-28 16:51:00,GERAI SINAR JAYA,Cirebon,Siomay Ayam,8,18000,144000.0,QRIS,Berhasil
+DB-00691,2026-05-28 17:30:00,Kedai Sentosa,Tangerang,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-00692,2026-05-28 18:11:00,Warung Bahari,Bekasi,Bakpao Coklat,3,13000,39000.0,Transfer Bank,Berhasil
+DB-00693,2026-05-28 19:26:00,Kantin Mawar,Depok,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-00694,2026-05-29 11:33:00,Kedai Sentosa,Tangerang,Hakau Udang,4,24000,96000.0,Transfer Bank,Pending
+DB-00695,2026-05-29 13:24:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Berhasil
+DB-00696,2026-05-29 14:42:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,8,16000,128000.0,Tunai,Berhasil
+DB-00697,2026-05-29 18:02:00,Kantin Mawar,Depok,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-00698,2026-05-29 18:06:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,12,14000,168000.0,Tunai,Berhasil
+DB-00699,2026-05-29 18:44:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00700,2026-05-29 19:09:00,Kedai Sentosa,Tangerang,Siomay Ayam,3,18000,54000.0,Tunai,Berhasil
+DB-00701,2026-05-30 11:08:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Berhasil
+DB-00702,2026-05-30 11:43:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,5,16000,80000.0,Transfer Bank,Berhasil
+DB-00703,2026-05-30 11:45:00,Warung Bahari,Bekasi,Xiao Long Bao,4,28000,112000.0,Virtual Account,Berhasil
+DB-00704,2026-05-30 15:34:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,18,24000,432000.0,Transfer Bank,Berhasil
+DB-00705,2026-05-30 17:12:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-00706,2026-05-30 17:16:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,7,28000,196000.0,Transfer Bank,Berhasil
+DB-00707,2026-05-30 18:50:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,9,20000,180000.0,,Gagal
+DB-00708,2026-05-30 19:35:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,7,16000,112000.0,QRIS,Gagal
+DB-00709,2026-05-30 20:02:00,Kedai Sentosa,Tangerang,Xiao Long Bao,3,28000,84000.0,Tunai,Pending
+DB-00710,2026-05-30 20:26:00,Kedai Sentosa,Tangerang,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-00711,2026-05-31 14:13:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,14,15000,210000.0,QRIS,Berhasil
+DB-00712,2026-05-31 16:38:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Berhasil
+DB-00713,2026-05-31 19:14:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Pending
+DB-00714,2026-05-31 19:25:00,Toko Pelangi,Bogor,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-00715,2026-06-01 12:17:00,Depot Lestari,Semarang,Bakpao Coklat,13,13000,169000.0,Transfer Bank,Berhasil
+DB-00716,2026-06-01 13:23:00,Kantin Mawar,Depok,Cakar Ayam Saus,6,20000,120000.0,QRIS,Gagal
+DB-00717,2026-06-02 11:56:00,Toko Pelangi,Bogor,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00718,2026-06-02 13:08:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,2,20000,40000.0,Tunai,Berhasil
+DB-00719,2026-06-02 14:55:00,Kantin Mawar,Depok,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Pending
+DB-00720,2026-06-02 16:44:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,7,16000,112000.0,QRIS,Berhasil
+DB-00721,2026-06-02 17:48:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,15,13000,195000.0,Transfer Bank,Berhasil
+DB-00722,2026-06-02 19:07:00,Kantin Mawar,Depok,Siomay Ayam,3,18000,54000.0,Virtual Account,Berhasil
+DB-00723,2026-06-02 19:44:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,15,28000,420000.0,Transfer Bank,Berhasil
+DB-00724,2026-06-02 20:33:00,Kedai Sentosa,Tangerang,Siomay Ayam,8,18000,144000.0,Transfer Bank,Berhasil
+DB-00725,2026-06-03 11:02:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00726,2026-06-03 18:32:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,7,28000,196000.0,Transfer Bank,Berhasil
+DB-00727,2026-06-04 11:03:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,8,16000,128000.0,QRIS,Berhasil
+DB-00728,2026-06-04 16:55:00,Kedai Sentosa,Tangerang,Bakpao Coklat,2,13000,26000.0,Transfer Bank,Berhasil
+DB-00729,2026-06-04 17:17:00,Kantin Mawar,Depok,Pangsit Goreng,2,14000,28000.0,Transfer Bank,Berhasil
+DB-00730,2026-06-04 18:06:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,12,14000,168000.0,QRIS,Berhasil
+DB-00731,2026-06-04 18:16:00,Warung Bahari,Bekasi,Pangsit Goreng,4,14000,56000.0,Transfer Bank,Gagal
+DB-00732,2026-06-05 12:17:00,Kedai Sentosa,Tangerang,Siomay Ayam,7,18000,126000.0,QRIS,Berhasil
+DB-00733,2026-06-05 15:01:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,12,15000,180000.0,QRIS,Berhasil
+DB-00734,2026-06-05 15:55:00,Kantin Mawar,Depok,Xiao Long Bao,8,28000,224000.0,QRIS,Gagal
+DB-00735,2026-06-05 16:05:00,Kedai Sentosa,Tangerang,Xiao Long Bao,6,28000,168000.0,Virtual Account,Berhasil
+DB-00736,2026-06-05 18:53:00,Toko Pelangi,Bogor,Xiao Long Bao,10,28000,280000.0,QRIS,Berhasil
+DB-00737,2026-06-05 19:28:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,2,28000,56000.0,Transfer Bank,Berhasil
+DB-00738,2026-06-06 09:01:00,Warung Bahari,Bekasi,Cakar Ayam Saus,3,20000,60000.0,QRIS,Berhasil
+DB-00739,2026-06-06 11:04:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,8,20000,160000.0,QRIS,Berhasil
+DB-00740,2026-06-06 11:13:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,Tunai,Berhasil
+DB-00741,2026-06-06 11:53:00,Warung Bahari,Bekasi,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-00742,2026-06-06 12:28:00,Warung Harmoni,Pekalongan,Bakpao Coklat,8,13000,104000.0,Transfer Bank,Gagal
+DB-00743,2026-06-06 13:03:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-00744,2026-06-06 15:02:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,Virtual Account,Berhasil
+DB-00745,2026-06-06 16:17:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,10,16000,160000.0,Tunai,Gagal
+DB-00746,2026-06-06 17:42:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,5,16000,80000.0,Virtual Account,Berhasil
+DB-00747,2026-06-06 18:34:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-00748,2026-06-07 09:05:00,Warung Bahari,Bekasi,Hakau Udang,1,24000,24000.0,Transfer Bank,Berhasil
+DB-00749,2026-06-07 09:28:00,Toko Pelangi,Bogor,Pangsit Goreng,12,14000,168000.0,QRIS,Berhasil
+DB-00750,2026-06-07 10:45:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,10,20000,200000.0,QRIS,Berhasil
+DB-00751,2026-06-07 12:42:00,Warung Harmoni,Pekalongan,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00752,2026-06-07 13:01:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00753,2026-06-07 13:58:00,Toko Pelangi,Bogor,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Pending
+DB-00754,2026-06-07 17:55:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-00755,2026-06-07 18:36:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,9,13000,117000.0,QRIS,Berhasil
+DB-00756,2026-06-07 19:39:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-00757,2026-06-07 19:59:00,Kantin Mawar,Depok,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-00758,2026-06-08 12:36:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-00759,2026-06-08 15:13:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-00760,2026-06-08 15:36:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Berhasil
+DB-00761,2026-06-08 16:40:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,4,18000,72000.0,Transfer Bank,Pending
+DB-00762,2026-06-08 17:26:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,7,16000,112000.0,Virtual Account,Berhasil
+DB-00763,2026-06-08 17:41:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,10,18000,180000.0,Virtual Account,Berhasil
+DB-00764,2026-06-08 21:36:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,3,18000,54000.0,QRIS,berhasil 
+DB-00765,2026-06-09 16:39:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00766,2026-06-09 18:10:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,10,20000,200000.0,QRIS,Berhasil
+DB-00767,2026-06-10 12:03:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00768,2026-06-10 13:52:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,7,20000,140000.0,Virtual Account,Pending
+DB-00769,2026-06-10 15:33:00,Kedai Sentosa,Tangerang,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00770,2026-06-10 19:17:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,5,16000,80000.0,Transfer Bank,Berhasil
+DB-00771,2026-06-10 20:10:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,8,15000,120000.0,Virtual Account,Berhasil
+DB-00772,2026-06-10 20:16:00,Depot Lestari,Semarang,Xiao Long Bao,8,28000,224000.0,Tunai,Berhasil
+DB-00773,2026-06-11 09:17:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,21,15000,315000.0,Transfer Bank,Berhasil
+DB-00774,2026-06-11 10:00:00,Kedai Sentosa,Tangerang,Xiao Long Bao,7,28000,196000.0,QRIS,Berhasil
+DB-00775,2026-06-11 11:16:00,Kedai Sentosa,Tangerang,Hakau Udang,7,24000,168000.0,Virtual Account,Berhasil
+DB-00776,2026-06-11 11:54:00,Kantin Mawar,Depok,Hakau Udang,7,24000,168000.0,QRIS,Berhasil
+DB-00777,2026-06-11 12:05:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-00778,2026-06-11 12:41:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,10,20000,200000.0,Transfer Bank,Pending
+DB-00779,2026-06-12 12:00:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,7,15000,105000.0,QRIS,Berhasil
+DB-00780,2026-06-12 12:19:00,Kantin Mawar,Depok,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00781,2026-06-12 12:57:00,Depot Lestari,Semarang,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-00782,2026-06-12 14:25:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,Tunai,Berhasil
+DB-00783,2026-06-12 16:13:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Berhasil
+DB-00784,2026-06-12 16:49:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,13,13000,169000.0,Transfer Bank,Berhasil
+DB-00785,2026-06-12 18:09:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,9,24000,216000.0,QRIS,Berhasil
+DB-00786,2026-06-12 18:30:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,15,24000,360000.0,Transfer Bank,Berhasil
+DB-00787,2026-06-12 19:12:00,Warung Harmoni,Pekalongan,Xiao Long Bao,8,28000,224000.0,QRIS,Gagal
+DB-00788,2026-06-12 19:50:00,Depot Lestari,Semarang,Siomay Ayam,7,18000,,QRIS,Berhasil
+DB-00789,2026-06-13 12:56:00,warung bahari,Bekasi,Pangsit Goreng,2,14000,28000.0,QRIS,Gagal
+DB-00790,2026-06-13 17:47:00,Kantin Mawar,Depok,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-00791,2026-06-13 18:10:00,Warung Harmoni,Pekalongan,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-00792,2026-06-14 10:18:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,Tunai,Pending
+DB-00793,2026-06-14 12:55:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,1,20000,20000.0,Virtual Account,Gagal
+DB-00794,2026-06-14 12:57:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,14,28000,392000.0,QRIS,Berhasil
+DB-00795,2026-06-14 15:52:00,Warung Bahari,Bekasi,Siomay Ayam,2,18000,36000.0,Transfer Bank,Berhasil
+DB-00796,2026-06-14 15:57:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,7,14000,98000.0,Virtual Account,Berhasil
+DB-00797,2026-06-14 16:28:00,Warung Harmoni,Pekalongan,Bakpao Coklat,7,13000,91000.0,QRIS,Gagal
+DB-00798,2026-06-14 16:56:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00799,2026-06-14 19:47:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-00800,2026-06-15 10:04:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00801,2026-06-15 10:17:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,15,15000,225000.0,QRIS,Berhasil
+DB-00802,2026-06-15 10:33:00,  Toko Pelangi ,Bogor,Bakpao Daging,8,15000,120000.0,Virtual Account,Berhasil
+DB-00803,2026-06-15 13:09:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,8,16000,128000.0,QRIS,Berhasil
+DB-00804,2026-06-15 17:22:00,Warung Harmoni,Pekalongan,Hakau Udang,2,24000,48000.0,QRIS,Berhasil
+DB-00805,2026-06-15 19:17:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,11,13000,143000.0,Virtual Account,Berhasil
+DB-00806,2026-06-16 12:09:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-00807,2026-06-16 12:19:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,5,13000,65000.0,Transfer Bank,Gagal
+DB-00808,2026-06-16 20:32:00,Warung Harmoni,Pekalongan,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Pending
+DB-00809,2026-06-16 21:00:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-00810,2026-06-17 10:29:00,warung bahari,Bekasi,Bakpao Daging,3,15000,45000.0,QRIS,Pending
+DB-00811,2026-06-17 18:17:00,Toko Pelangi,Bogor,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-00812,2026-06-17 18:20:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,Berhasil
+DB-00813,2026-06-17 20:17:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Gagal
+DB-00814,2026-06-18 11:28:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,1,18000,18000.0,QRIS,Gagal
+DB-00815,2026-06-18 14:06:00,Kedai Sentosa,Tangerang,Xiao Long Bao,6,28000,168000.0,QRIS,Berhasil
+DB-00816,2026-06-18 18:18:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,13,24000,312000.0,QRIS,Berhasil
+DB-00817,2026-06-19 09:03:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,Virtual Account,Berhasil
+DB-00818,2026-06-19 13:17:00,Depot Lestari,Semarang,Pangsit Goreng,3,14000,42000.0,Tunai,Berhasil
+DB-00819,2026-06-19 17:44:00,Kedai Sentosa,Tangerang,Hakau Udang,1,24000,24000.0,Virtual Account,Berhasil
+DB-00820,2026-06-19 18:31:00,Kedai Sentosa,Tangerang,Hakau Udang,4,24000,96000.0,Transfer Bank,Berhasil
+DB-00821,2026-06-19 18:56:00,Warung Bahari,Bekasi,Bakpao Coklat,2,13000,26000.0,Tunai,Berhasil
+DB-00822,2026-06-19 20:33:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,13,13000,169000.0,QRIS,Berhasil
+DB-00823,2026-06-20 11:43:00,Kedai Sentosa,Tangerang,Xiao Long Bao,5,28000,140000.0,Transfer Bank,Berhasil
+DB-00824,2026-06-20 13:26:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,19,28000,532000.0,Transfer Bank,Berhasil
+DB-00825,2026-06-20 16:04:00,Kedai Sentosa,Tangerang,Xiao Long Bao,6,28000,168000.0,Virtual Account,Berhasil
+DB-00826,2026-06-20 18:13:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-00827,2026-06-20 19:22:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,Virtual Account,Berhasil
+DB-00828,2026-06-20 19:38:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,Virtual Account,Berhasil
+DB-00829,2026-06-21 10:31:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,13,13000,169000.0,Transfer Bank,Berhasil
+DB-00830,2026-06-21 11:06:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Pending
+DB-00831,2026-06-21 12:49:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,8,13000,104000.0,Virtual Account,Berhasil
+DB-00832,2026-06-21 17:22:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-00833,2026-06-21 18:38:00,Toko Pelangi,Bogor,Siomay Ayam,9,18000,162000.0,Virtual Account,Berhasil
+DB-00834,2026-06-21 18:57:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-00835,2026-06-22 09:39:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-00836,2026-06-22 12:16:00,Kedai Sentosa,Tangerang,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00837,2026-06-22 12:47:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,1,20000,20000.0,Tunai,Berhasil
+DB-00838,2026-06-22 16:11:00,Kedai Sentosa,Tangerang,Hakau Udang,2,24000,48000.0,Virtual Account,Berhasil
+DB-00839,2026-06-22 16:58:00,Warung Bahari,Bekasi,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-00840,2026-06-23 11:08:00,Kantin Mawar,Depok,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-00841,2026-06-23 12:14:00,Kedai Sentosa,Tangerang,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00842,2026-06-23 12:37:00,Toko Pelangi,Bogor,Siomay Ayam,6,18000,108000.0,QRIS,Gagal
+DB-00843,2026-06-23 17:38:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,Virtual Account,Berhasil
+DB-00844,2026-06-23 19:17:00,Toko Pelangi,Bogor,Xiao Long Bao,8,28000,224000.0,Virtual Account,Berhasil
+DB-00845,2026-06-24 16:42:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,3,16000,48000.0,Virtual Account,Berhasil
+DB-00846,2026-06-24 16:42:00,Toko Pelangi,Bogor,Xiao Long Bao,7,28000,196000.0,QRIS,Berhasil
+DB-00847,2026-06-24 16:51:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,10,28000,280000.0,Tunai,Berhasil
+DB-00848,2026-06-24 17:37:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,13,15000,195000.0,QRIS,Berhasil
+DB-00849,2026-06-24 20:54:00,Toko Pelangi,Bogor,Xiao Long Bao,8,28000,224000.0,Transfer Bank,Berhasil
+DB-00850,2026-06-25 13:28:00,Toko Pelangi,Bogor,Siomay Ayam,4,18000,72000.0,QRIS,Pending
+DB-00851,2026-06-25 19:41:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,8,15000,120000.0,QRIS,Berhasil
+DB-00852,2026-06-26 13:18:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-00853,2026-06-26 18:38:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-00854,2026-06-27 10:03:00,Toko Pelangi,Bogor,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Berhasil
+DB-00855,2026-06-27 10:59:00,Toko Pelangi,Bogor,Cakar Ayam Saus,7,20000,140000.0,QRIS,Berhasil
+DB-00856,2026-06-27 11:21:00,Depot Lestari,Semarang,Siomay Ayam,9,18000,162000.0,QRIS,Berhasil
+DB-00857,2026-06-27 16:47:00,Kedai Sentosa,Tangerang,Siomay Ayam,6,18000,108000.0,QRIS,BERHASIL
+DB-00858,2026-06-27 18:35:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-00859,2026-06-27 19:37:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Berhasil
+DB-00860,2026-06-27 20:26:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,16,18000,288000.0,Transfer Bank,Berhasil
+DB-00861,2026-06-27 20:35:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,5,14000,70000.0,Virtual Account,Berhasil
+DB-00862,2026-06-27 20:45:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-00863,2026-06-28 11:50:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00864,2026-06-28 13:20:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,4,14000,56000.0,Virtual Account,Berhasil
+DB-00865,2026-06-28 16:11:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,10,13000,130000.0,QRIS,Berhasil
+DB-00866,2026-06-28 17:03:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-00867,2026-06-28 17:16:00,Kedai Sentosa,Tangerang,Hakau Udang,6,24000,144000.0,QRIS,Berhasil
+DB-00868,2026-06-28 17:52:00,Warung Bahari,Bekasi,Bakpao Coklat,5,13000,65000.0,Tunai,Berhasil
+DB-00869,2026-06-28 17:55:00,Warung Bahari,Bekasi,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-00870,2026-06-28 19:31:00,Gerai Sinar Jaya,Cirebon,Bakpao Coklat,8,13000,104000.0,QRIS,Berhasil
+DB-00871,2026-06-29 12:19:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,9,18000,162000.0,QRIS,Berhasil
+DB-00872,2026-06-29 15:31:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,8,16000,128000.0,Transfer Bank,Pending
+DB-00873,2026-06-29 16:41:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,Berhasil
+DB-00874,2026-06-29 18:13:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,12,20000,240000.0,Transfer Bank,Berhasil
+DB-00875,2026-06-30 11:06:00,Kantin Mawar,Depok,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-00876,2026-06-30 11:32:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,6,15000,90000.0,QRIS,Berhasil
+DB-00877,2026-06-30 17:54:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Berhasil
+DB-00878,2026-07-01 15:57:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,14,13000,182000.0,QRIS,Berhasil
+DB-00879,2026-07-01 20:31:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,2,18000,36000.0,QRIS,Berhasil
+DB-00880,2026-07-02 13:45:00,Warung Bahari,Bekasi,Hakau Udang,1,24000,24000.0,QRIS,Berhasil
+DB-00881,2026-07-03 11:25:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,14,20000,280000.0,Tunai,Gagal
+DB-00882,2026-07-03 12:03:00,Warung Bahari,Bekasi,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Pending
+DB-00883,2026-07-03 16:00:00,Kedai Sentosa,Tangerang,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-00884,2026-07-03 18:05:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,Transfer Bank,Berhasil
+DB-00885,2026-07-03 18:26:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,15,28000,420000.0,Virtual Account,Pending
+DB-00886,2026-07-03 18:41:00,Kedai Sentosa,Tangerang,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-00887,2026-07-03 19:31:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,7,16000,112000.0,QRIS,Pending
+DB-00888,2026-07-03 19:52:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,10,13000,130000.0,QRIS,Berhasil
+DB-00889,2026-07-03 21:01:00,Depot Lestari,Semarang,Bakpao Daging,5,15000,75000.0,Virtual Account,Pending
+DB-00890,2026-07-04 09:12:00,Kedai Sentosa,Tangerang,Xiao Long Bao,8,28000,224000.0,Virtual Account,Berhasil
+DB-00891,2026-07-04 10:26:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-00892,2026-07-04 11:02:00,Toko Pelangi,Bogor,Bakpao Coklat,8,13000,104000.0,Transfer Bank,Berhasil
+DB-00893,2026-07-04 15:26:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,QRIS,Berhasil
+DB-00894,2026-07-04 15:36:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Berhasil
+DB-00895,2026-07-04 17:05:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-00896,2026-07-04 17:22:00,Depot Lestari,Semarang,Bakpao Daging,15,15000,225000.0,Virtual Account,Berhasil
+DB-00897,2026-07-04 19:19:00,Kedai Sentosa,Tangerang,Hakau Udang,6,24000,144000.0,Transfer Bank,Berhasil
+DB-00898,2026-07-04 19:29:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,13,24000,312000.0,Tunai,Berhasil
+DB-00899,2026-07-04 19:43:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,3,24000,72000.0,Virtual Account,Berhasil
+DB-00900,2026-07-05 11:30:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Berhasil
+DB-00901,2026-07-05 11:53:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,7,18000,126000.0,Tunai,Berhasil
+DB-00902,2026-07-05 12:40:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-00903,2026-07-05 13:20:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,3,16000,48000.0,Virtual Account,Berhasil
+DB-00904,2026-07-05 18:27:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,5,16000,80000.0,Tunai,Berhasil
+DB-00905,2026-07-05 19:21:00,KEDAI SENTOSA,Tangerang,Hakau Udang,8,24000,192000.0,QRIS,Berhasil
+DB-00906,2026-07-05 20:25:00,Kantin Mawar,Depok,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00907,2026-07-06 11:12:00,Kantin Mawar,Depok,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-00908,2026-07-06 15:52:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Pending
+DB-00909,2026-07-06 17:20:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Gagal
+DB-00910,2026-07-06 17:56:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,2,18000,36000.0,Transfer Bank,Berhasil
+DB-00911,2026-07-06 18:14:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,1,20000,20000.0,Transfer Bank,Berhasil
+DB-00912,2026-07-06 18:36:00,Toko Pelangi,Bogor,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Berhasil
+DB-00913,2026-07-07 11:57:00,Kantin Mawar,Depok,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-00914,2026-07-07 18:04:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-00915,2026-07-07 19:38:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00916,2026-07-07 20:09:00,depot lestari,Semarang,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00917,2026-07-07 21:07:00,Kedai Sentosa,Tangerang,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00918,2026-07-07 21:20:00,Kedai Sentosa,Tangerang,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Berhasil
+DB-00919,2026-07-07 21:32:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,11,16000,176000.0,QRIS,Berhasil
+DB-00920,2026-07-08 13:22:00,Warung Harmoni,Pekalongan,Bakpao Coklat,5,13000,65000.0,Transfer Bank,Berhasil
+DB-00921,2026-07-08 13:48:00,Warung Bahari,Bekasi,Bakpao Daging,5,15000,75000.0,Transfer Bank,Berhasil
+DB-00922,2026-07-08 17:57:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,11,16000,176000.0,QRIS,pending 
+DB-00923,2026-07-08 20:35:00,Warung Bahari,Bekasi,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-00924,2026-07-09 17:47:00,Kedai Sentosa,Tangerang,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-00925,2026-07-09 18:06:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-00926,2026-07-09 20:00:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,7,20000,140000.0,,Berhasil
+DB-00927,2026-07-09 20:43:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Berhasil
+DB-00928,2026-07-10 14:47:00,Warung Bahari,Bekasi,Pangsit Goreng,8,14000,112000.0,QRIS,Berhasil
+DB-00929,2026-07-10 14:54:00,Kedai Sentosa,Tangerang,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-00930,2026-07-10 16:22:00,Warung Bahari,Bekasi,Pangsit Goreng,2,14000,28000.0,Transfer Bank,Pending
+DB-00931,2026-07-11 15:02:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,7,16000,112000.0,Virtual Account,Berhasil
+DB-00932,2026-07-11 18:29:00,Warung Bahari,Bekasi,Pangsit Goreng,2,14000,28000.0,Transfer Bank,Pending
+DB-00933,2026-07-11 19:06:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,7,14000,98000.0,QRIS,Pending
+DB-00934,2026-07-11 20:32:00,  Warung Bahari ,Bekasi,Lumpia Kulit Tahu,4,16000,64000.0,Transfer Bank,Berhasil
+DB-00935,2026-07-12 09:00:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,10,20000,200000.0,Transfer Bank,Berhasil
+DB-00936,2026-07-12 12:41:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-00937,2026-07-12 13:51:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,14,20000,280000.0,QRIS,Berhasil
+DB-00938,2026-07-12 14:17:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00939,2026-07-12 14:20:00,Warung Harmoni,Pekalongan,Hakau Udang,6,24000,144000.0,QRIS,Berhasil
+DB-00940,2026-07-12 15:23:00,Warung Harmoni,Pekalongan,Hakau Udang,7,24000,168000.0,Virtual Account,Berhasil
+DB-00941,2026-07-12 16:08:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,4,20000,80000.0,QRIS,Gagal
+DB-00942,2026-07-12 18:45:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,10,14000,140000.0,Transfer Bank,Berhasil
+DB-00943,2026-07-12 19:12:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Pending
+DB-00944,2026-07-12 19:23:00,Toko Pelangi,Bogor,Bakpao Coklat,7,13000,91000.0,Tunai,Berhasil
+DB-00945,2026-07-12 19:51:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,7,20000,140000.0,Virtual Account,Berhasil
+DB-00946,2026-07-13 09:16:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,11,28000,308000.0,Virtual Account,Berhasil
+DB-00947,2026-07-13 09:21:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,18,15000,270000.0,QRIS,Berhasil
+DB-00948,2026-07-13 10:06:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,18,15000,270000.0,QRIS,Berhasil
+DB-00949,2026-07-13 10:58:00,Kantin Mawar,Depok,Hakau Udang,9,24000,216000.0,QRIS,Berhasil
+DB-00950,2026-07-13 13:59:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00951,2026-07-13 19:58:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,12,28000,336000.0,Virtual Account,Berhasil
+DB-00952,2026-07-13 21:31:00,Depot Lestari,Semarang,Xiao Long Bao,10,28000,280000.0,QRIS,Berhasil
+DB-00953,2026-07-14 11:02:00,Kedai Sentosa,Tangerang,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-00954,2026-07-14 11:37:00,Toko Pelangi,Bogor,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-00955,2026-07-14 12:13:00,Kedai Sentosa,Tangerang,Bakpao Daging,7,15000,105000.0,QRIS,Berhasil
+DB-00956,2026-07-14 18:55:00,Warung Bahari,Bekasi,Pangsit Goreng,4,14000,56000.0,Tunai,Pending
+DB-00957,2026-07-14 19:07:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,16,18000,288000.0,Transfer Bank,Berhasil
+DB-00958,2026-07-15 10:00:00,Kedai Sentosa,Tangerang,Hakau Udang,4,24000,96000.0,Transfer Bank,Gagal
+DB-00959,2026-07-15 11:44:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,12,13000,156000.0,QRIS,Pending
+DB-00960,2026-07-15 12:39:00,Kedai Sentosa,Tangerang,Bakpao Coklat,5,13000,65000.0,Transfer Bank,Berhasil
+DB-00961,2026-07-15 19:42:00,Toko Pelangi,Bogor,Xiao Long Bao,9,28000,252000.0,QRIS,Berhasil
+DB-00962,2026-07-15 20:50:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,10,15000,150000.0,QRIS,Berhasil
+DB-00963,2026-07-16 10:43:00,Kedai Sentosa,Tangerang,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-00964,2026-07-16 17:51:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Gagal
+DB-00965,2026-07-16 17:57:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,3,18000,54000.0,Transfer Bank,Berhasil
+DB-00966,2026-07-16 19:09:00,Kantin Mawar,Depok,Pangsit Goreng,5,14000,70000.0,Virtual Account,Berhasil
+DB-00967,2026-07-17 09:19:00,Kantin Mawar,Depok,Cakar Ayam Saus,7,20000,140000.0,Tunai,Gagal
+DB-00968,2026-07-17 10:02:00,Toko Pelangi,Bogor,Xiao Long Bao,7,28000,196000.0,Transfer Bank,Berhasil
+DB-00969,2026-07-17 12:16:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,BERHASIL
+DB-00970,2026-07-17 12:47:00,Depot Lestari,Semarang,Siomay Ayam,7,18000,126000.0,Transfer Bank,Berhasil
+DB-00971,2026-07-17 13:08:00,Depot Lestari,Semarang,Cakar Ayam Saus,11,20000,220000.0,QRIS,berhasil 
+DB-00972,2026-07-17 13:30:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,5,16000,80000.0,Tunai,Berhasil
+DB-00973,2026-07-18 10:43:00,Toko Pelangi,Bogor,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-00974,2026-07-18 11:47:00,Toko Pelangi,Bogor,Bakpao Daging,9,15000,135000.0,QRIS,Berhasil
+DB-00975,2026-07-18 13:30:00,Warung Bahari,Bekasi,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-00976,2026-07-18 14:06:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-00977,2026-07-18 15:32:00,Kantin Mawar,Depok,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Berhasil
+DB-00978,2026-07-18 17:57:00,Warung Bahari,Bekasi,Hakau Udang,8,24000,192000.0,Virtual Account,Berhasil
+DB-00979,2026-07-19 10:18:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,15,28000,420000.0,Tunai,Berhasil
+DB-00980,2026-07-19 12:00:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-00981,2026-07-19 12:33:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,19,18000,342000.0,QRIS,Berhasil
+DB-00982,2026-07-19 14:56:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,Tunai,Berhasil
+DB-00983,2026-07-19 15:58:00,Warung Bahari,Bekasi,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-00984,2026-07-19 16:24:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,8,24000,192000.0,Virtual Account,Gagal
+DB-00985,2026-07-19 19:34:00,Kantin Mawar,Depok,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Berhasil
+DB-00986,2026-07-19 20:05:00,Warung Bahari,Bekasi,Cakar Ayam Saus,1,20000,20000.0,Tunai,Berhasil
+DB-00987,2026-07-20 11:38:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Pending
+DB-00988,2026-07-20 13:09:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,4,15000,60000.0,Transfer Bank,Berhasil
+DB-00989,2026-07-20 13:54:00,Kedai Sentosa,Tangerang,Pangsit Goreng,9,14000,126000.0,Transfer Bank,Berhasil
+DB-00990,2026-07-20 20:43:00,Kedai Sentosa,Tangerang,Bakpao Daging,6,15000,90000.0,Transfer Bank,Berhasil
+DB-00991,2026-07-21 11:31:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Berhasil
+DB-00992,2026-07-21 11:33:00,kantin mawar,Depok,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-00993,2026-07-21 12:28:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,10,28000,280000.0,Transfer Bank,Berhasil
+DB-00994,2026-07-21 13:16:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-00995,2026-07-21 19:44:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,16,28000,448000.0,Transfer Bank,Berhasil
+DB-00996,2026-07-22 10:15:00,Kantin Mawar,Depok,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-00997,2026-07-22 14:50:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,QRIS,Gagal
+DB-00998,2026-07-22 16:54:00,Toko Pelangi,Bogor,Cakar Ayam Saus,11,20000,220000.0,Transfer Bank,Berhasil
+DB-00999,2026-07-22 18:51:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,Transfer Bank,Berhasil
+DB-01000,2026-07-22 18:59:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-01001,2026-07-23 12:54:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,Virtual Account,Berhasil
+DB-01002,2026-07-24 16:19:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,15,18000,270000.0,Transfer Bank,Berhasil
+DB-01003,2026-07-24 18:12:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,13,15000,195000.0,QRIS,Berhasil
+DB-01004,2026-07-24 19:02:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,11,20000,220000.0,Transfer Bank,Berhasil
+DB-01005,2026-07-24 20:03:00,Kantin Mawar,Depok,Xiao Long Bao,3,28000,84000.0,Transfer Bank,Berhasil
+DB-01006,2026-07-25 09:07:00,Depot Lestari,Semarang,Bakpao Coklat,8,13000,104000.0,Transfer Bank,Berhasil
+DB-01007,2026-07-25 10:05:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,7,20000,140000.0,QRIS,Berhasil
+DB-01008,2026-07-25 10:25:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,6,28000,168000.0,Virtual Account,Berhasil
+DB-01009,2026-07-25 11:51:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Berhasil
+DB-01010,2026-07-25 12:32:00,Gerai Sinar Jaya,Cirebon,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-01011,2026-07-25 12:35:00,Depot Lestari,Semarang,Siomay Ayam,10,18000,180000.0,QRIS,Berhasil
+DB-01012,2026-07-25 13:38:00,Warung Bahari,Bekasi,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-01013,2026-07-25 14:52:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,5,16000,80000.0,Virtual Account,Berhasil
+DB-01014,2026-07-25 16:23:00,Kedai Sentosa,Tangerang,Xiao Long Bao,7,28000,196000.0,Virtual Account,Gagal
+DB-01015,2026-07-25 16:48:00,Warung Bahari,Bekasi,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01016,2026-07-25 18:25:00,Kedai Sentosa,Tangerang,Bakpao Daging,2,15000,30000.0,Transfer Bank,Berhasil
+DB-01017,2026-07-25 18:47:00,Warung Bahari,Bekasi,Hakau Udang,2,24000,48000.0,Tunai,Berhasil
+DB-01018,2026-07-25 18:51:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,9,16000,144000.0,Transfer Bank,Gagal
+DB-01019,2026-07-25 20:07:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-01020,2026-07-25 20:26:00,Kantin Mawar,Depok,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-01021,2026-07-26 10:05:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Berhasil
+DB-01022,2026-07-26 10:19:00,Warung Bahari,Bekasi,Bakpao Coklat,6,13000,78000.0,QRIS,Berhasil
+DB-01023,2026-07-26 10:49:00,Depot Lestari,Semarang,Bakpao Coklat,14,13000,182000.0,QRIS,Berhasil
+DB-01024,2026-07-26 11:29:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,5,18000,90000.0,Transfer Bank,Berhasil
+DB-01025,2026-07-26 11:51:00,Kedai Sentosa,Tangerang,Siomay Ayam,1,18000,18000.0,QRIS,Berhasil
+DB-01026,2026-07-26 14:42:00,Depot Lestari,Semarang,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-01027,2026-07-26 18:49:00,Warung Harmoni,Pekalongan,Siomay Ayam,3,18000,54000.0,Transfer Bank,Gagal
+DB-01028,2026-07-27 10:23:00,Toko Pelangi,Bogor,Pangsit Goreng,9,14000,126000.0,QRIS,Berhasil
+DB-01029,2026-07-27 20:37:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,15,13000,195000.0,QRIS,Berhasil
+DB-01030,2026-07-28 13:43:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,8,20000,160000.0,QRIS,Berhasil
+DB-01031,2026-07-28 18:05:00,Warung Harmoni,Pekalongan,Siomay Ayam,4,18000,72000.0,Tunai,Berhasil
+DB-01032,2026-07-28 20:58:00,Toko Pelangi,Bogor,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-01033,2026-07-29 14:48:00,Kedai Sentosa,Tangerang,Hakau Udang,8,24000,192000.0,Tunai,Berhasil
+DB-01034,2026-07-29 19:19:00,Kedai Sentosa,Tangerang,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Pending
+DB-01035,2026-07-29 19:20:00,Depot Lestari,Semarang,Pangsit Goreng,9,14000,126000.0,QRIS,Berhasil
+DB-01036,2026-07-29 20:08:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-01037,2026-07-30 12:04:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-01038,2026-07-30 12:48:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,2,20000,40000.0,QRIS,Gagal
+DB-01039,2026-07-30 16:26:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-01040,2026-07-30 19:04:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Berhasil
+DB-01041,2026-07-31 09:14:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,11,13000,143000.0,Transfer Bank,Berhasil
+DB-01042,2026-07-31 10:18:00,Kantin Mawar,Depok,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Pending
+DB-01043,2026-07-31 10:35:00,kantin mawar,Depok,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-01044,2026-07-31 12:12:00,Warung Bahari,Bekasi,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-01045,2026-07-31 13:14:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,4,15000,60000.0,Transfer Bank,Berhasil
+DB-01046,2026-07-31 14:33:00,Kantin Mawar,Depok,Siomay Ayam,2,18000,36000.0,QRIS,Gagal
+DB-01047,2026-07-31 14:48:00,Warung Harmoni,Pekalongan,Bakpao Daging,3,15000,45000.0,Transfer Bank,Pending
+DB-01048,2026-07-31 15:34:00,Kedai Sentosa,Tangerang,Pangsit Goreng,5,14000,70000.0,QRIS,Berhasil
+DB-01049,2026-07-31 16:25:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,17,15000,255000.0,QRIS,Berhasil
+DB-01050,2026-07-31 17:01:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,7,20000,140000.0,QRIS,Gagal
+DB-01051,2026-07-31 17:49:00,Kedai Sentosa,Tangerang,Bakpao Daging,10,15000,150000.0,QRIS,Pending
+DB-01052,2026-07-31 20:05:00,  Gerai Sinar Jaya ,Cirebon,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-01053,2026-08-01 13:24:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Berhasil
+DB-01054,2026-08-01 17:33:00,Warung Bahari,Bekasi,Xiao Long Bao,2,28000,56000.0,QRIS,Berhasil
+DB-01055,2026-08-01 17:47:00,Kedai Sentosa,Tangerang,Bakpao Coklat,2,13000,26000.0,QRIS,Berhasil
+DB-01056,2026-08-01 17:57:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,5,16000,80000.0,Transfer Bank,Berhasil
+DB-01057,2026-08-01 18:28:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-01058,2026-08-01 19:04:00,Kedai Sentosa,Tangerang,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-01059,2026-08-01 20:19:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-01060,2026-08-01 21:30:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,15,18000,270000.0,QRIS,Berhasil
+DB-01061,2026-08-02 10:48:00,Warung Bahari,Bekasi,Bakpao Daging,3,15000,45000.0,Transfer Bank,Berhasil
+DB-01062,2026-08-02 11:17:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,5,20000,100000.0,Virtual Account,Gagal
+DB-01063,2026-08-02 11:19:00,Toko Pelangi,Bogor,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-01064,2026-08-02 11:40:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,14,20000,280000.0,QRIS,Berhasil
+DB-01065,2026-08-02 15:21:00,Kantin Mawar,Depok,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-01066,2026-08-02 16:09:00,Kantin Mawar,Depok,Hakau Udang,6,24000,144000.0,QRIS,Gagal
+DB-01067,2026-08-02 16:48:00,Warung Bahari,Bekasi,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-01068,2026-08-02 18:39:00,Warung Bahari,Bekasi,Hakau Udang,2,24000,48000.0,QRIS,Pending
+DB-01069,2026-08-02 19:30:00,Warung Bahari,Bekasi,Bakpao Daging,4,15000,60000.0,Transfer Bank,Berhasil
+DB-01070,2026-08-02 19:34:00,Depot Lestari,Semarang,Xiao Long Bao,10,28000,280000.0,QRIS,Berhasil
+DB-01071,2026-08-03 10:23:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,Virtual Account,Pending
+DB-01072,2026-08-03 11:10:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-01073,2026-08-03 18:38:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,4,18000,72000.0,Tunai,Berhasil
+DB-01074,2026-08-03 19:21:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,4,16000,64000.0,Transfer Bank,Berhasil
+DB-01075,2026-08-03 21:46:00,Kedai Sentosa,Tangerang,Hakau Udang,6,24000,144000.0,QRIS,Gagal
+DB-01076,2026-08-04 12:50:00,Toko Pelangi,Bogor,Bakpao Coklat,7,13000,91000.0,QRIS,Berhasil
+DB-01077,2026-08-04 13:40:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,2,28000,56000.0,Tunai,Berhasil
+DB-01078,2026-08-04 18:19:00,Depot Lestari,Semarang,Siomay Ayam,10,18000,180000.0,Virtual Account,Berhasil
+DB-01079,2026-08-04 19:33:00,Kantin Mawar,Depok,Bakpao Coklat,3,13000,39000.0,Virtual Account,Berhasil
+DB-01080,2026-08-04 20:06:00,Kedai Sentosa,Tangerang,Pangsit Goreng,3,14000,42000.0,Transfer Bank,Berhasil
+DB-01081,2026-08-05 10:47:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,7,20000,140000.0,Virtual Account,Berhasil
+DB-01082,2026-08-05 15:30:00,Depot Lestari,Semarang,Xiao Long Bao,16,28000,448000.0,QRIS,Berhasil
+DB-01083,2026-08-05 17:32:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01084,2026-08-05 17:37:00,Depot Lestari,Semarang,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-01085,2026-08-05 20:14:00,Kedai Sentosa,Tangerang,Siomay Ayam,7,18000,126000.0,QRIS,Berhasil
+DB-01086,2026-08-06 11:04:00,Warung Bahari,Bekasi,Bakpao Coklat,2,13000,26000.0,Tunai,Berhasil
+DB-01087,2026-08-06 12:48:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,10,18000,180000.0,Transfer Bank,Berhasil
+DB-01088,2026-08-06 13:21:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,15,24000,360000.0,QRIS,Berhasil
+DB-01089,2026-08-06 14:47:00,Warung Bahari,Bekasi,Bakpao Daging,1,15000,15000.0,Virtual Account,Berhasil
+DB-01090,2026-08-06 15:15:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-01091,2026-08-06 15:59:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,3,13000,39000.0,QRIS,Pending
+DB-01092,2026-08-07 11:26:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,Transfer Bank,Berhasil
+DB-01093,2026-08-07 14:27:00,Toko Pelangi,Bogor,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-01094,2026-08-07 14:50:00,Toko Pelangi,Bogor,Pangsit Goreng,7,14000,98000.0,Transfer Bank,Gagal
+DB-01095,2026-08-07 19:11:00,Warung Bahari,Bekasi,Pangsit Goreng,2,14000,28000.0,Transfer Bank,Gagal
+DB-01096,2026-08-07 19:25:00,Warung Bahari,Bekasi,Xiao Long Bao,3,28000,84000.0,Tunai,Berhasil
+DB-01097,2026-08-07 19:33:00,Kedai Sentosa,Tangerang,Pangsit Goreng,5,14000,70000.0,Tunai,berhasil 
+DB-01098,2026-08-08 10:04:00,Toko Pelangi,Bogor,Xiao Long Bao,7,28000,196000.0,QRIS,Berhasil
+DB-01099,2026-08-08 10:34:00,Warung Bahari,Bekasi,Bakpao Daging,2,15000,30000.0,Transfer Bank,Berhasil
+DB-01100,2026-08-08 11:14:00,Kedai Sentosa,Tangerang,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01101,2026-08-08 12:05:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,3,28000,84000.0,QRIS,Pending
+DB-01102,2026-08-08 14:08:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,3,20000,60000.0,Virtual Account,Pending
+DB-01103,2026-08-08 14:25:00,Warung Harmoni,Pekalongan,Bakpao Daging,6,15000,90000.0,QRIS,Berhasil
+DB-01104,2026-08-08 17:03:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-01105,2026-08-08 18:40:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,6,24000,144000.0,Transfer Bank,Berhasil
+DB-01106,2026-08-09 12:48:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,Virtual Account,Berhasil
+DB-01107,2026-08-09 17:59:00,Warung Bahari,Bekasi,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-01108,2026-08-10 12:20:00,Toko Pelangi,Bogor,Siomay Ayam,12,18000,216000.0,Virtual Account,Berhasil
+DB-01109,2026-08-10 18:35:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,7,14000,98000.0,Tunai,Berhasil
+DB-01110,2026-08-10 20:33:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,8,24000,192000.0,QRIS,Pending
+DB-01111,2026-08-11 13:26:00,Depot Lestari,Semarang,Hakau Udang,9,24000,216000.0,Transfer Bank,Berhasil
+DB-01112,2026-08-11 18:28:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,5,15000,75000.0,Virtual Account,Berhasil
+DB-01113,2026-08-11 19:55:00,Kedai Sentosa,Tangerang,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01114,2026-08-12 12:45:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,1,18000,18000.0,QRIS,Berhasil
+DB-01115,2026-08-12 13:08:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,12,18000,216000.0,Virtual Account,Pending
+DB-01116,2026-08-12 15:32:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-01117,2026-08-12 19:13:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-01118,2026-08-12 20:59:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,6,15000,90000.0,Tunai,Berhasil
+DB-01119,2026-08-12 21:58:00,Toko Pelangi,Bogor,Pangsit Goreng,1,14000,14000.0,Virtual Account,Berhasil
+DB-01120,2026-08-13 10:20:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,19,16000,304000.0,QRIS,Berhasil
+DB-01121,2026-08-13 10:29:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,Berhasil
+DB-01122,2026-08-13 10:42:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-01123,2026-08-13 14:09:00,Warung Bahari,Bekasi,Bakpao Coklat,3,13000,39000.0,Transfer Bank,berhasil 
+DB-01124,2026-08-13 18:47:00,Warung Bahari,Bekasi,Bakpao Daging,5,15000,75000.0,Virtual Account,Berhasil
+DB-01125,2026-08-13 20:27:00,Depot Lestari,Semarang,Xiao Long Bao,11,28000,308000.0,QRIS,Gagal
+DB-01126,2026-08-14 10:39:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,19,20000,380000.0,QRIS,Berhasil
+DB-01127,2026-08-14 12:07:00,Kedai Sentosa,Tangerang,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-01128,2026-08-14 15:40:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01129,2026-08-14 17:26:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-01130,2026-08-14 18:22:00,Depot Lestari,Semarang,Cakar Ayam Saus,9,20000,180000.0,Tunai,Berhasil
+DB-01131,2026-08-15 13:32:00,Toko Pelangi,Bogor,Bakpao Coklat,4,13000,,QRIS,Berhasil
+DB-01132,2026-08-15 17:12:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,12,16000,192000.0,QRIS,Pending
+DB-01133,2026-08-15 19:02:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,11,14000,154000.0,Tunai,Berhasil
+DB-01134,2026-08-15 19:12:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01135,2026-08-15 20:02:00,Kantin Mawar,Depok,Siomay Ayam,5,18000,90000.0,Transfer Bank,Berhasil
+DB-01136,2026-08-16 11:28:00,Warung Bahari,Bekasi,Bakpao Daging,4,15000,60000.0,QRIS,Berhasil
+DB-01137,2026-08-16 12:34:00,TOKO PELANGI,Bogor,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-01138,2026-08-16 12:38:00,Kedai Sentosa,Tangerang,Hakau Udang,1,24000,24000.0,Tunai,Berhasil
+DB-01139,2026-08-16 13:04:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,19,24000,456000.0,Transfer Bank,Berhasil
+DB-01140,2026-08-16 16:49:00,Depot Lestari,Semarang,Bakpao Coklat,8,13000,104000.0,Virtual Account,Berhasil
+DB-01141,2026-08-16 17:33:00,Depot Lestari,Semarang,Hakau Udang,8,24000,192000.0,Virtual Account,Berhasil
+DB-01142,2026-08-16 21:16:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-01143,2026-08-17 16:47:00,Kantin Mawar,Depok,Siomay Ayam,4,18000,72000.0,Transfer Bank,Berhasil
+DB-01144,2026-08-17 17:04:00,Kedai Sentosa,Tangerang,Hakau Udang,7,24000,168000.0,Tunai,Berhasil
+DB-01145,2026-08-17 18:36:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,19,13000,247000.0,QRIS,Berhasil
+DB-01146,2026-08-18 11:14:00,Depot Lestari,Semarang,Bakpao Daging,8,15000,120000.0,Tunai,Berhasil
+DB-01147,2026-08-18 17:08:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-01148,2026-08-18 18:21:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-01149,2026-08-18 18:32:00,Toko Pelangi,Bogor,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-01150,2026-08-18 19:57:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,14,16000,224000.0,Virtual Account,Berhasil
+DB-01151,2026-08-19 12:16:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-01152,2026-08-19 13:30:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,17,28000,476000.0,QRIS,Berhasil
+DB-01153,2026-08-20 11:58:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,4,13000,52000.0,Virtual Account,Berhasil
+DB-01154,2026-08-20 17:54:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,19,28000,532000.0,Transfer Bank,Berhasil
+DB-01155,2026-08-20 18:06:00,Warung Harmoni,Pekalongan,Bakpao Daging,6,15000,90000.0,Tunai,Berhasil
+DB-01156,2026-08-21 11:48:00,Kedai Sentosa,Tangerang,Xiao Long Bao,2,28000,56000.0,Virtual Account,Berhasil
+DB-01157,2026-08-21 13:45:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,8,16000,128000.0,QRIS,Berhasil
+DB-01158,2026-08-21 17:14:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,QRIS,Berhasil
+DB-01159,2026-08-21 17:29:00,Warung Harmoni,Pekalongan,Bakpao Daging,10,15000,150000.0,QRIS,Berhasil
+DB-01160,2026-08-21 17:41:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-01161,2026-08-21 18:02:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-01162,2026-08-21 18:16:00,Kantin Mawar,Depok,Pangsit Goreng,4,14000,56000.0,Transfer Bank,Berhasil
+DB-01163,2026-08-22 10:01:00,Kedai Sentosa,Tangerang,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-01164,2026-08-22 10:14:00,Warung Bahari,Bekasi,Siomay Ayam,5,18000,90000.0,QRIS,Pending
+DB-01165,2026-08-22 12:31:00,Kedai Sentosa,Tangerang,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01166,2026-08-22 12:53:00,Kantin Mawar,Depok,Xiao Long Bao,2,28000,56000.0,Virtual Account,Berhasil
+DB-01167,2026-08-22 16:01:00,Kedai Sentosa,Tangerang,Bakpao Coklat,4,13000,52000.0,,Berhasil
+DB-01168,2026-08-22 17:40:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,11,28000,308000.0,Virtual Account,Berhasil
+DB-01169,2026-08-22 18:09:00,Warung Bahari,Bekasi,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-01170,2026-08-22 19:12:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,11,16000,176000.0,QRIS,Berhasil
+DB-01171,2026-08-22 19:55:00,Kantin Mawar,Depok,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Berhasil
+DB-01172,2026-08-23 10:25:00,Kantin Mawar,Depok,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Gagal
+DB-01173,2026-08-23 10:26:00,Warung Bahari,Bekasi,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-01174,2026-08-23 15:18:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,14,15000,210000.0,Transfer Bank,Berhasil
+DB-01175,2026-08-23 15:51:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,14,13000,182000.0,Transfer Bank,Berhasil
+DB-01176,2026-08-23 17:03:00,Kedai Sentosa,Tangerang,Bakpao Daging,4,15000,60000.0,Tunai,Pending
+DB-01177,2026-08-23 17:59:00,Warung Bahari,Bekasi,Bakpao Daging,3,15000,45000.0,Transfer Bank,Pending
+DB-01178,2026-08-23 18:51:00,Warung Bahari,Bekasi,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-01179,2026-08-23 19:14:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,QRIS,Berhasil
+DB-01180,2026-08-23 20:04:00,Kantin Mawar,Depok,Bakpao Daging,3,15000,45000.0,QRIS,Berhasil
+DB-01181,2026-08-23 21:50:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-01182,2026-08-24 11:00:00,Toko Pelangi,Bogor,Siomay Ayam,5,18000,90000.0,QRIS,Gagal
+DB-01183,2026-08-24 11:36:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,6,28000,168000.0,QRIS,Berhasil
+DB-01184,2026-08-24 12:39:00,Warung Harmoni,Pekalongan,Bakpao Coklat,1,13000,13000.0,QRIS,Berhasil
+DB-01185,2026-08-24 13:07:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,2,15000,30000.0,Transfer Bank,Berhasil
+DB-01186,2026-08-24 15:26:00,Warung Harmoni,Pekalongan,Pangsit Goreng,4,14000,56000.0,Transfer Bank,Berhasil
+DB-01187,2026-08-24 19:25:00,Depot Lestari,Semarang,Bakpao Daging,7,15000,105000.0,Transfer Bank,Pending
+DB-01188,2026-08-24 20:52:00,Depot Lestari,Semarang,Siomay Ayam,4,18000,72000.0,Tunai,Berhasil
+DB-01189,2026-08-25 10:57:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Pending
+DB-01190,2026-08-25 12:08:00,Depot Lestari,Semarang,Pangsit Goreng,7,14000,98000.0,Virtual Account,Berhasil
+DB-01191,2026-08-25 18:11:00,Kantin Mawar,Depok,Cakar Ayam Saus,5,20000,100000.0,QRIS,Berhasil
+DB-01192,2026-08-25 18:48:00,Kantin Mawar,Depok,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-01193,2026-08-25 19:14:00,Toko Pelangi,Bogor,Xiao Long Bao,9,28000,252000.0,Virtual Account,Berhasil
+DB-01194,2026-08-26 11:30:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,12,24000,288000.0,QRIS,Pending
+DB-01195,2026-08-26 18:22:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,7,18000,126000.0,QRIS,Berhasil
+DB-01196,2026-08-27 09:12:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,3,16000,48000.0,,Berhasil
+DB-01197,2026-08-27 10:03:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,12,13000,156000.0,Transfer Bank,Berhasil
+DB-01198,2026-08-27 12:37:00,Kedai Sentosa,Tangerang,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01199,2026-08-27 13:16:00,Kantin Mawar,Depok,Hakau Udang,4,24000,96000.0,Tunai,Berhasil
+DB-01200,2026-08-27 15:07:00,Toko Pelangi,Bogor,Cakar Ayam Saus,8,20000,160000.0,QRIS,Berhasil
+DB-01201,2026-08-27 17:50:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,1,28000,28000.0,QRIS,Berhasil
+DB-01202,2026-08-28 12:06:00,Kantin Mawar,Depok,Hakau Udang,9,24000,216000.0,QRIS,Pending
+DB-01203,2026-08-28 12:48:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,5,16000,80000.0,Virtual Account,Berhasil
+DB-01204,2026-08-28 13:08:00,Warung Harmoni,Pekalongan,Pangsit Goreng,1,14000,14000.0,Transfer Bank,Berhasil
+DB-01205,2026-08-28 13:33:00,Kedai Sentosa,Tangerang,Siomay Ayam,3,18000,54000.0,Transfer Bank,Berhasil
+DB-01206,2026-08-28 15:52:00,dimsum kota tua,Jakarta Barat,Bakpao Daging,7,15000,105000.0,Virtual Account,Berhasil
+DB-01207,2026-08-28 16:31:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,5,15000,75000.0,Transfer Bank,Gagal
+DB-01208,2026-08-28 18:30:00,Warung Bahari,Bekasi,Cakar Ayam Saus,1,20000,20000.0,QRIS,Berhasil
+DB-01209,2026-08-28 19:54:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,7,20000,140000.0,Virtual Account,Berhasil
+DB-01210,2026-08-28 20:24:00,Warung Harmoni,Pekalongan,Bakpao Coklat,5,13000,65000.0,Tunai,Berhasil
+DB-01211,2026-08-28 20:44:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,13,16000,208000.0,Transfer Bank,Berhasil
+DB-01212,2026-08-29 11:40:00,Warung Bahari,Bekasi,Bakpao Daging,6,15000,90000.0,QRIS,Berhasil
+DB-01213,2026-08-29 20:06:00,Kedai Sentosa,Tangerang,Bakpao Daging,3,15000,45000.0,QRIS,Berhasil
+DB-01214,2026-08-30 11:23:00,Kedai Sentosa,Tangerang,Pangsit Goreng,7,14000,98000.0,Transfer Bank,Berhasil
+DB-01215,2026-08-30 11:43:00,Kedai Sentosa,Tangerang,Pangsit Goreng,6,14000,84000.0,Tunai,Berhasil
+DB-01216,2026-08-30 12:43:00,Warung Harmoni,Pekalongan,Hakau Udang,4,24000,96000.0,Transfer Bank,Berhasil
+DB-01217,2026-08-30 13:48:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,Transfer Bank,Pending
+DB-01218,2026-08-30 15:27:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,11,15000,165000.0,QRIS,Berhasil
+DB-01219,2026-08-30 16:13:00,Warung Harmoni,Pekalongan,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-01220,2026-08-30 16:57:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,5,16000,80000.0,Transfer Bank,Berhasil
+DB-01221,2026-08-30 17:33:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,10,15000,150000.0,Transfer Bank,Berhasil
+DB-01222,2026-08-30 17:39:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,7,16000,112000.0,QRIS,Berhasil
+DB-01223,2026-08-30 18:39:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,16,24000,384000.0,Transfer Bank,Berhasil
+DB-01224,2026-08-30 20:20:00,Toko Pelangi,Bogor,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-01225,2026-08-30 20:32:00,Toko Pelangi,Bogor,Pangsit Goreng,2,14000,28000.0,Transfer Bank,Berhasil
+DB-01226,2026-08-31 09:17:00,Depot Lestari,Semarang,Pangsit Goreng,10,14000,140000.0,Virtual Account,Berhasil
+DB-01227,2026-08-31 10:30:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,1,18000,18000.0,Transfer Bank,Berhasil
+DB-01228,2026-08-31 13:31:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-01229,2026-08-31 14:58:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-01230,2026-08-31 15:24:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,4,20000,80000.0,Virtual Account,Berhasil
+DB-01231,2026-08-31 17:08:00,Kedai Sentosa,Tangerang,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-01232,2026-08-31 17:53:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,19,24000,456000.0,Transfer Bank,Berhasil
+DB-01233,2026-08-31 19:25:00,Depot Lestari,Semarang,Bakpao Daging,6,15000,90000.0,QRIS,Gagal
+DB-01234,2026-09-01 10:19:00,Kantin Mawar,Depok,Siomay Ayam,4,18000,72000.0,Transfer Bank,Gagal
+DB-01235,2026-09-01 11:16:00,Depot Lestari,Semarang,Hakau Udang,7,24000,168000.0,Tunai,Berhasil
+DB-01236,2026-09-01 14:11:00,Depot Lestari,Semarang,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-01237,2026-09-01 17:33:00,Warung Harmoni,Pekalongan,Hakau Udang,3,24000,,QRIS,Gagal
+DB-01238,2026-09-01 19:23:00,Kedai Sentosa,Tangerang,Siomay Ayam,8,18000,144000.0,Virtual Account,Berhasil
+DB-01239,2026-09-01 20:31:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,5,13000,65000.0,Virtual Account,Berhasil
+DB-01240,2026-09-02 11:25:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,Transfer Bank,Berhasil
+DB-01241,2026-09-02 11:45:00,Kedai Sentosa,Tangerang,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-01242,2026-09-02 14:31:00,Warung Bahari,Bekasi,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-01243,2026-09-02 16:19:00,Toko Pelangi,Bogor,Cakar Ayam Saus,3,20000,60000.0,Tunai,Berhasil
+DB-01244,2026-09-02 16:19:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,12,28000,336000.0,Transfer Bank,Berhasil
+DB-01245,2026-09-02 17:00:00,Warung Bahari,Bekasi,Hakau Udang,1,24000,24000.0,QRIS,Berhasil
+DB-01246,2026-09-02 19:11:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01247,2026-09-02 19:52:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-01248,2026-09-02 20:12:00,Warung Bahari,Bekasi,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-01249,2026-09-03 12:38:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,4,14000,56000.0,Transfer Bank,Berhasil
+DB-01250,2026-09-03 12:58:00,Kantin Mawar,Depok,Bakpao Daging,4,15000,60000.0,QRIS,Berhasil
+DB-01251,2026-09-03 14:05:00,Depot Lestari,Semarang,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01252,2026-09-03 18:01:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,3,24000,72000.0,QRIS,Berhasil
+DB-01253,2026-09-03 19:41:00,Kedai Sentosa,Tangerang,Pangsit Goreng,7,14000,98000.0,QRIS,Berhasil
+DB-01254,2026-09-04 13:32:00,Kantin Mawar,Depok,Siomay Ayam,8,18000,144000.0,Virtual Account,Pending
+DB-01255,2026-09-04 19:56:00,Kantin Mawar,Depok,Pangsit Goreng,8,14000,112000.0,QRIS,Berhasil
+DB-01256,2026-09-04 21:55:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-01257,2026-09-05 11:38:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-01258,2026-09-05 14:45:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,4,14000,56000.0,Virtual Account,Berhasil
+DB-01259,2026-09-05 16:08:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-01260,2026-09-05 17:03:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,4,15000,60000.0,Transfer Bank,Berhasil
+DB-01261,2026-09-05 17:17:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,8,16000,128000.0,QRIS,Berhasil
+DB-01262,2026-09-05 18:14:00,Depot Lestari,Semarang,Xiao Long Bao,12,28000,336000.0,QRIS,Berhasil
+DB-01263,2026-09-05 18:52:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,18,13000,234000.0,Transfer Bank,Berhasil
+DB-01264,2026-09-05 19:03:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,6,14000,84000.0,QRIS,Berhasil
+DB-01265,2026-09-05 20:51:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,9,24000,216000.0,Transfer Bank,Berhasil
+DB-01266,2026-09-06 10:27:00,Warung Bahari,Bekasi,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Pending
+DB-01267,2026-09-06 11:37:00,Warung Bahari,Bekasi,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-01268,2026-09-06 14:44:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,2,15000,30000.0,QRIS,Gagal
+DB-01269,2026-09-06 17:00:00,Depot Lestari,Semarang,Bakpao Coklat,9,13000,117000.0,Transfer Bank,Berhasil
+DB-01270,2026-09-06 17:24:00,Kedai Sentosa,Tangerang,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01271,2026-09-06 18:00:00,Warung Bahari,Bekasi,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01272,2026-09-06 18:15:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,Tunai,Berhasil
+DB-01273,2026-09-07 10:31:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,Berhasil
+DB-01274,2026-09-07 12:46:00,Kantin Mawar,Depok,Pangsit Goreng,7,14000,98000.0,QRIS,Berhasil
+DB-01275,2026-09-07 12:49:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,7,16000,112000.0,Tunai,Berhasil
+DB-01276,2026-09-07 14:30:00,Warung Bahari,Bekasi,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-01277,2026-09-07 14:31:00,Kantin Mawar,Depok,Hakau Udang,8,24000,192000.0,Transfer Bank,Berhasil
+DB-01278,2026-09-07 17:17:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,1,28000,28000.0,Transfer Bank,Berhasil
+DB-01279,2026-09-07 17:55:00,Kedai Sentosa,Tangerang,Bakpao Daging,2,15000,30000.0,Virtual Account,Berhasil
+DB-01280,2026-09-07 19:18:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,2,15000,30000.0,QRIS,Berhasil
+DB-01281,2026-09-08 11:06:00,Kedai Sentosa,Tangerang,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-01282,2026-09-08 12:03:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-01283,2026-09-08 13:51:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,4,15000,60000.0,QRIS,Berhasil
+DB-01284,2026-09-08 15:45:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,7,20000,140000.0,Tunai,Berhasil
+DB-01285,2026-09-09 10:05:00,Warung Bahari,Bekasi,Xiao Long Bao,1,28000,28000.0,QRIS,Berhasil
+DB-01286,2026-09-09 11:24:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,9,13000,117000.0,QRIS,Berhasil
+DB-01287,2026-09-09 18:00:00,Depot Lestari,Semarang,Xiao Long Bao,12,28000,336000.0,QRIS,Berhasil
+DB-01288,2026-09-10 12:22:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-01289,2026-09-10 20:59:00,Kantin Mawar,Depok,Xiao Long Bao,3,28000,84000.0,Transfer Bank,Berhasil
+DB-01290,2026-09-11 11:07:00,Kantin Mawar,Depok,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-01291,2026-09-11 14:56:00,Kantin Mawar,Depok,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-01292,2026-09-11 17:37:00,Warung Harmoni,Pekalongan,Siomay Ayam,1,18000,18000.0,QRIS,Berhasil
+DB-01293,2026-09-11 18:04:00,Warung Bahari,Bekasi,Siomay Ayam,2,18000,36000.0,Transfer Bank,Berhasil
+DB-01294,2026-09-11 18:56:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-01295,2026-09-11 21:28:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01296,2026-09-12 10:18:00,Toko Pelangi,Bogor,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-01297,2026-09-12 12:53:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,QRIS,Berhasil
+DB-01298,2026-09-12 14:56:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,3,16000,48000.0,Virtual Account,Berhasil
+DB-01299,2026-09-12 19:02:00,Kedai Sentosa,Tangerang,Siomay Ayam,7,18000,126000.0,Transfer Bank,Berhasil
+DB-01300,2026-09-12 19:21:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-01301,2026-09-13 11:29:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,1,14000,14000.0,Transfer Bank,Berhasil
+DB-01302,2026-09-13 13:00:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-01303,2026-09-13 13:37:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Berhasil
+DB-01304,2026-09-13 15:25:00,Warung Bahari,Bekasi,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-01305,2026-09-13 17:45:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,22,28000,616000.0,Transfer Bank,Berhasil
+DB-01306,2026-09-13 18:01:00,Depot Lestari,Semarang,Hakau Udang,4,24000,96000.0,Virtual Account,Berhasil
+DB-01307,2026-09-13 18:57:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-01308,2026-09-13 20:52:00,Toko Pelangi,Bogor,Cakar Ayam Saus,6,20000,120000.0,Tunai,Berhasil
+DB-01309,2026-09-13 21:56:00,Warung Harmoni,Pekalongan,Bakpao Daging,1,15000,15000.0,QRIS,Berhasil
+DB-01310,2026-09-14 12:04:00,Kedai Sentosa,Tangerang,Xiao Long Bao,1,28000,28000.0,QRIS,Berhasil
+DB-01311,2026-09-14 12:47:00,Kedai Sentosa,Tangerang,Bakpao Daging,10,15000,150000.0,Transfer Bank,Berhasil
+DB-01312,2026-09-14 13:56:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01313,2026-09-14 17:33:00,KEDAI SENTOSA,Tangerang,Xiao Long Bao,4,28000,112000.0,Tunai,Berhasil
+DB-01314,2026-09-14 19:09:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,5,20000,,Virtual Account,Berhasil
+DB-01315,2026-09-14 21:58:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,Transfer Bank,Berhasil
+DB-01316,2026-09-15 10:16:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,5,16000,80000.0,Transfer Bank,Berhasil
+DB-01317,2026-09-15 10:19:00,  Kafe Teratai ,Jakarta Selatan,Cakar Ayam Saus,9,20000,180000.0,QRIS,Berhasil
+DB-01318,2026-09-15 12:30:00,kedai sentosa,Tangerang,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-01319,2026-09-15 21:06:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-01320,2026-09-16 11:16:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Berhasil
+DB-01321,2026-09-16 11:22:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Berhasil
+DB-01322,2026-09-16 12:02:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,14,28000,392000.0,QRIS,Berhasil
+DB-01323,2026-09-16 13:28:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,18,18000,324000.0,QRIS,Berhasil
+DB-01324,2026-09-16 18:45:00,Depot Lestari,Semarang,Siomay Ayam,8,18000,144000.0,Virtual Account,Berhasil
+DB-01325,2026-09-17 12:27:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,QRIS,Pending
+DB-01326,2026-09-17 17:02:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,16,14000,224000.0,Transfer Bank,Berhasil
+DB-01327,2026-09-17 17:50:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,4,16000,64000.0,Transfer Bank,Berhasil
+DB-01328,2026-09-18 11:54:00,Warung Bahari,Bekasi,Xiao Long Bao,13,28000,364000.0,QRIS,Berhasil
+DB-01329,2026-09-18 14:37:00,Warung Bahari,Bekasi,Bakpao Daging,1,15000,15000.0,QRIS,Berhasil
+DB-01330,2026-09-18 18:24:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-01331,2026-09-18 18:30:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,2,28000,56000.0,Tunai,Berhasil
+DB-01332,2026-09-18 19:30:00,Kantin Mawar,Depok,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Gagal
+DB-01333,2026-09-18 19:31:00,Warung Bahari,Bekasi,Pangsit Goreng,5,14000,70000.0,QRIS,Berhasil
+DB-01334,2026-09-18 19:37:00,Warung Bahari,Bekasi,Bakpao Coklat,9,13000,117000.0,QRIS,Berhasil
+DB-01335,2026-09-18 19:58:00,Warung Bahari,Bekasi,Hakau Udang,5,24000,120000.0,QRIS,Pending
+DB-01336,2026-09-18 21:02:00,Kedai Sentosa,Tangerang,Bakpao Daging,5,15000,75000.0,QRIS,Berhasil
+DB-01337,2026-09-18 21:13:00,Depot Lestari,Semarang,Bakpao Daging,14,15000,210000.0,QRIS,Berhasil
+DB-01338,2026-09-19 09:19:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,Virtual Account,Berhasil
+DB-01339,2026-09-19 12:44:00,Warung Harmoni,Pekalongan,Siomay Ayam,1,18000,18000.0,Transfer Bank,Berhasil
+DB-01340,2026-09-19 13:08:00,DEPOT LESTARI,Semarang,Pangsit Goreng,8,14000,112000.0,QRIS,Gagal
+DB-01341,2026-09-19 14:20:00,Kedai Sentosa,Tangerang,Hakau Udang,11,24000,264000.0,Transfer Bank,Berhasil
+DB-01342,2026-09-19 16:46:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,15,13000,195000.0,Transfer Bank,Berhasil
+DB-01343,2026-09-19 17:11:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,4,24000,96000.0,Tunai,Berhasil
+DB-01344,2026-09-19 18:05:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,QRIS,Berhasil
+DB-01345,2026-09-20 12:16:00,Kedai Sentosa,Tangerang,Bakpao Daging,6,15000,90000.0,,Berhasil
+DB-01346,2026-09-20 13:59:00,Toko Pelangi,Bogor,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-01347,2026-09-20 15:21:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,7,14000,98000.0,Transfer Bank,Pending
+DB-01348,2026-09-20 17:12:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,QRIS,Berhasil
+DB-01349,2026-09-20 19:26:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,17,15000,255000.0,Virtual Account,Berhasil
+DB-01350,2026-09-21 11:20:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,4,24000,96000.0,QRIS,Gagal
+DB-01351,2026-09-21 11:44:00,Kantin Mawar,Depok,Bakpao Coklat,5,13000,65000.0,QRIS,BERHASIL
+DB-01352,2026-09-21 12:16:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,1,28000,28000.0,QRIS,Berhasil
+DB-01353,2026-09-21 12:23:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,21,18000,378000.0,Transfer Bank,Berhasil
+DB-01354,2026-09-21 12:37:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,10,14000,140000.0,Tunai,Berhasil
+DB-01355,2026-09-21 13:03:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,6,20000,120000.0,QRIS,Berhasil
+DB-01356,2026-09-21 17:31:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,13,16000,208000.0,Transfer Bank,Berhasil
+DB-01357,2026-09-21 19:40:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-01358,2026-09-22 11:29:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,9,16000,144000.0,Tunai,Berhasil
+DB-01359,2026-09-22 13:18:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,7,16000,112000.0,QRIS,Berhasil
+DB-01360,2026-09-22 17:28:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,5,20000,100000.0,QRIS,Gagal
+DB-01361,2026-09-22 18:04:00,Warung Bahari,Bekasi,Hakau Udang,2,24000,48000.0,QRIS,Berhasil
+DB-01362,2026-09-22 18:26:00,Warung Bahari,Bekasi,Xiao Long Bao,7,28000,196000.0,Transfer Bank,Berhasil
+DB-01363,2026-09-22 20:19:00,Warung Harmoni,Pekalongan,Bakpao Daging,3,15000,45000.0,Tunai,Pending
+DB-01364,2026-09-22 20:22:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,4,20000,80000.0,Virtual Account,Berhasil
+DB-01365,2026-09-22 20:55:00,Warung Bahari,Bekasi,Cakar Ayam Saus,4,20000,80000.0,QRIS,Berhasil
+DB-01366,2026-09-23 11:52:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,7,28000,196000.0,QRIS,Gagal
+DB-01367,2026-09-23 12:15:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,8,16000,128000.0,Transfer Bank,Berhasil
+DB-01368,2026-09-23 15:15:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Gagal
+DB-01369,2026-09-23 18:17:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,5,16000,80000.0,Transfer Bank,Berhasil
+DB-01370,2026-09-23 18:18:00,Kedai Sentosa,Tangerang,Bakpao Coklat,8,13000,104000.0,QRIS,Berhasil
+DB-01371,2026-09-24 12:06:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,5,20000,100000.0,Virtual Account,Berhasil
+DB-01372,2026-09-24 17:46:00,Depot Lestari,Semarang,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Pending
+DB-01373,2026-09-24 17:53:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,2,15000,30000.0,Virtual Account,Berhasil
+DB-01374,2026-09-24 18:18:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,7,16000,112000.0,Virtual Account,Berhasil
+DB-01375,2026-09-24 18:37:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-01376,2026-09-25 14:34:00,Depot Lestari,Semarang,Bakpao Coklat,10,13000,130000.0,Transfer Bank,Berhasil
+DB-01377,2026-09-25 18:43:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,6,14000,84000.0,Tunai,Berhasil
+DB-01378,2026-09-25 18:59:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,9,16000,144000.0,Transfer Bank,Berhasil
+DB-01379,2026-09-25 19:41:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,8,15000,120000.0,QRIS,Berhasil
+DB-01380,2026-09-25 20:55:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,2,13000,26000.0,Transfer Bank,Berhasil
+DB-01381,2026-09-26 11:06:00,Kedai Sentosa,Tangerang,Bakpao Daging,1,15000,15000.0,Tunai,Pending
+DB-01382,2026-09-26 13:39:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,Transfer Bank,Pending
+DB-01383,2026-09-26 16:26:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-01384,2026-09-26 16:45:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,Virtual Account,Berhasil
+DB-01385,2026-09-26 17:14:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,5,13000,65000.0,QRIS,Berhasil
+DB-01386,2026-09-26 17:42:00,Kedai Sentosa,Tangerang,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-01387,2026-09-26 18:36:00,Depot Lestari,Semarang,Bakpao Coklat,11,13000,143000.0,QRIS,Berhasil
+DB-01388,2026-09-26 19:46:00,Kedai Sentosa,Tangerang,Bakpao Daging,7,15000,105000.0,Virtual Account,Berhasil
+DB-01389,2026-09-26 19:50:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-01390,2026-09-27 16:59:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,9,24000,216000.0,Virtual Account,Berhasil
+DB-01391,2026-09-27 18:55:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,14,15000,210000.0,Transfer Bank,Berhasil
+DB-01392,2026-09-27 19:29:00,Warung Harmoni,Pekalongan,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01393,2026-09-28 12:28:00,Warung Harmoni,Pekalongan,Bakpao Coklat,3,13000,39000.0,Transfer Bank,Berhasil
+DB-01394,2026-09-28 13:55:00,Toko Pelangi,Bogor,Siomay Ayam,6,18000,108000.0,Transfer Bank,Pending
+DB-01395,2026-09-28 15:33:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01396,2026-09-28 16:09:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,4,20000,80000.0,Transfer Bank,Berhasil
+DB-01397,2026-09-28 16:54:00,Kedai Sentosa,Tangerang,Hakau Udang,3,24000,72000.0,Virtual Account,Berhasil
+DB-01398,2026-09-28 17:43:00,Kedai Sentosa,Tangerang,Bakpao Coklat,5,13000,65000.0,Virtual Account,Berhasil
+DB-01399,2026-09-28 17:54:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-01400,2026-09-28 18:32:00,dimsum kota tua,Jakarta Barat,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Berhasil
+DB-01401,2026-09-29 11:38:00,Toko Pelangi,Bogor,Pangsit Goreng,5,14000,70000.0,Transfer Bank,Berhasil
+DB-01402,2026-09-29 12:40:00,Depot Lestari,Semarang,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-01403,2026-09-29 14:04:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,9,18000,162000.0,Transfer Bank,Berhasil
+DB-01404,2026-09-29 17:40:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-01405,2026-09-30 12:36:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,4,16000,64000.0,Transfer Bank,Berhasil
+DB-01406,2026-09-30 16:23:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,15,18000,270000.0,QRIS,Berhasil
+DB-01407,2026-09-30 18:29:00,Dimsum Kota Tua,Jakarta Barat,Pangsit Goreng,4,14000,56000.0,QRIS,Gagal
+DB-01408,2026-09-30 19:31:00,Kantin Mawar,Depok,Bakpao Coklat,2,13000,26000.0,QRIS,Berhasil
+DB-01409,2026-10-01 09:31:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,6,24000,144000.0,Transfer Bank,Berhasil
+DB-01410,2026-10-01 13:31:00,Warung Bahari,Bekasi,Hakau Udang,5,24000,120000.0,Tunai,Berhasil
+DB-01411,2026-10-01 17:09:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,18,14000,252000.0,QRIS,Berhasil
+DB-01412,2026-10-02 10:12:00,Kantin Mawar,Depok,Bakpao Daging,7,15000,105000.0,Tunai,Berhasil
+DB-01413,2026-10-02 11:41:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,15,14000,210000.0,Virtual Account,Berhasil
+DB-01414,2026-10-02 18:32:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01415,2026-10-02 18:34:00,Kedai Sentosa,Tangerang,Bakpao Daging,3,15000,45000.0,Virtual Account,Berhasil
+DB-01416,2026-10-02 21:02:00,Warung Harmoni,Pekalongan,Pangsit Goreng,4,14000,56000.0,Virtual Account,Gagal
+DB-01417,2026-10-03 10:47:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,6,16000,96000.0,QRIS,Pending
+DB-01418,2026-10-03 11:27:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,8,15000,120000.0,Transfer Bank,Berhasil
+DB-01419,2026-10-03 11:35:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-01420,2026-10-03 11:42:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-01421,2026-10-03 13:07:00,Toko Pelangi,Bogor,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-01422,2026-10-03 17:27:00,Kedai Sentosa,Tangerang,Hakau Udang,5,24000,120000.0,Transfer Bank,Berhasil
+DB-01423,2026-10-03 18:15:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,2,18000,36000.0,Tunai,Berhasil
+DB-01424,2026-10-03 18:33:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,15,16000,240000.0,Transfer Bank,Berhasil
+DB-01425,2026-10-03 19:21:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,2,28000,56000.0,Transfer Bank,Berhasil
+DB-01426,2026-10-03 19:42:00,Warung Harmoni,Pekalongan,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01427,2026-10-03 20:52:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01428,2026-10-04 09:06:00,Toko Pelangi,Bogor,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-01429,2026-10-04 10:50:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Gagal
+DB-01430,2026-10-04 11:14:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,2,13000,26000.0,Transfer Bank,Berhasil
+DB-01431,2026-10-04 12:49:00,Kantin Mawar,Depok,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-01432,2026-10-04 13:41:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-01433,2026-10-04 15:07:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,3,16000,48000.0,Virtual Account,Berhasil
+DB-01434,2026-10-04 15:30:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-01435,2026-10-04 16:12:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,10,24000,240000.0,Transfer Bank,Gagal
+DB-01436,2026-10-04 16:49:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Berhasil
+DB-01437,2026-10-04 18:25:00,Depot Lestari,Semarang,Hakau Udang,9,24000,216000.0,QRIS,Berhasil
+DB-01438,2026-10-04 18:28:00,Kedai Sentosa,Tangerang,Bakpao Daging,2,15000,30000.0,Transfer Bank,Berhasil
+DB-01439,2026-10-05 11:30:00,Warung Bahari,Bekasi,Pangsit Goreng,5,14000,70000.0,QRIS,Pending
+DB-01440,2026-10-06 11:29:00,Warung Harmoni,Pekalongan,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Berhasil
+DB-01441,2026-10-06 11:35:00,Warung Bahari,Bekasi,Pangsit Goreng,2,14000,28000.0,Transfer Bank,Pending
+DB-01442,2026-10-06 11:50:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,11,20000,220000.0,Tunai,Berhasil
+DB-01443,2026-10-06 12:02:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,24,15000,360000.0,Transfer Bank,Berhasil
+DB-01444,2026-10-06 18:35:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,1,18000,18000.0,Transfer Bank,Berhasil
+DB-01445,2026-10-06 19:58:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,2,28000,56000.0,Virtual Account,Berhasil
+DB-01446,2026-10-07 17:43:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-01447,2026-10-07 19:49:00,Toko Pelangi,Bogor,Xiao Long Bao,5,28000,140000.0,QRIS,Berhasil
+DB-01448,2026-10-08 12:58:00,Warung Bahari,Bekasi,Xiao Long Bao,4,28000,112000.0,Transfer Bank,Berhasil
+DB-01449,2026-10-08 13:06:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,15,13000,195000.0,Tunai,Berhasil
+DB-01450,2026-10-08 14:33:00,Kantin Mawar,Depok,Pangsit Goreng,4,14000,56000.0,Transfer Bank,Berhasil
+DB-01451,2026-10-08 14:47:00,Depot Lestari,Semarang,Cakar Ayam Saus,10,20000,200000.0,Transfer Bank,Berhasil
+DB-01452,2026-10-08 18:26:00,Kedai Sentosa,Tangerang,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-01453,2026-10-08 20:07:00,Kedai Sentosa,Tangerang,Pangsit Goreng,9,14000,126000.0,QRIS,Berhasil
+DB-01454,2026-10-09 15:16:00,Depot Lestari,Semarang,Bakpao Daging,7,15000,105000.0,Transfer Bank,Berhasil
+DB-01455,2026-10-09 17:48:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,2,20000,40000.0,QRIS,Berhasil
+DB-01456,2026-10-09 19:12:00,Kantin Mawar,Depok,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-01457,2026-10-09 19:53:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,6,24000,144000.0,,Berhasil
+DB-01458,2026-10-10 11:39:00,Kedai Sentosa,Tangerang,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-01459,2026-10-10 12:08:00,Warung Bahari,Bekasi,Bakpao Daging,6,15000,90000.0,Transfer Bank,Berhasil
+DB-01460,2026-10-10 12:48:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,12,18000,216000.0,Transfer Bank,Berhasil
+DB-01461,2026-10-10 15:04:00,Kafe Teratai,Jakarta Selatan,Lumpia Kulit Tahu,10,16000,160000.0,QRIS,Berhasil
+DB-01462,2026-10-10 16:51:00,Depot Lestari,Semarang,Cakar Ayam Saus,9,20000,180000.0,Virtual Account,Gagal
+DB-01463,2026-10-10 16:57:00,Toko Pelangi,Bogor,Bakpao Daging,6,15000,90000.0,QRIS,Berhasil
+DB-01464,2026-10-10 18:37:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,13,15000,195000.0,QRIS,Gagal
+DB-01465,2026-10-10 19:20:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,7,16000,112000.0,QRIS,Berhasil
+DB-01466,2026-10-11 10:13:00,Kantin Mawar,Depok,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-01467,2026-10-11 10:32:00,Warung Harmoni,Pekalongan,Pangsit Goreng,4,14000,56000.0,QRIS,Gagal
+DB-01468,2026-10-11 11:13:00,Kedai Sentosa,Tangerang,Pangsit Goreng,5,14000,70000.0,Virtual Account,Berhasil
+DB-01469,2026-10-11 11:27:00,Warung Bahari,Bekasi,Bakpao Coklat,3,13000,39000.0,QRIS,Berhasil
+DB-01470,2026-10-11 12:35:00,Kantin Mawar,Depok,Siomay Ayam,3,18000,54000.0,QRIS,Berhasil
+DB-01471,2026-10-11 13:53:00,Kedai Sentosa,Tangerang,Xiao Long Bao,2,28000,56000.0,Transfer Bank,Berhasil
+DB-01472,2026-10-11 15:05:00,Warung Bahari,Bekasi,Xiao Long Bao,2,28000,56000.0,Transfer Bank,Berhasil
+DB-01473,2026-10-11 17:41:00,Toko Pelangi,Bogor,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-01474,2026-10-11 17:49:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01475,2026-10-11 17:59:00,Kafe Teratai,Jakarta Selatan,Bakpao Daging,10,15000,150000.0,QRIS,Berhasil
+DB-01476,2026-10-11 19:48:00,Kantin Mawar,Depok,Bakpao Coklat,4,13000,52000.0,QRIS,Berhasil
+DB-01477,2026-10-12 09:37:00,Kedai Sentosa,Tangerang,Xiao Long Bao,3,28000,84000.0,Transfer Bank,Berhasil
+DB-01478,2026-10-12 11:34:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,6,20000,120000.0,Transfer Bank,Pending
+DB-01479,2026-10-12 16:19:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,5,28000,140000.0,Virtual Account,Berhasil
+DB-01480,2026-10-12 16:30:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,7,16000,112000.0,Transfer Bank,Berhasil
+DB-01481,2026-10-12 17:22:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,9,16000,144000.0,QRIS,Berhasil
+DB-01482,2026-10-12 18:25:00,Kedai Sentosa,Tangerang,Xiao Long Bao,9,28000,252000.0,Transfer Bank,Berhasil
+DB-01483,2026-10-13 10:41:00,Kedai Sentosa,Tangerang,Bakpao Daging,7,15000,105000.0,QRIS,Berhasil
+DB-01484,2026-10-13 13:43:00,Depot Lestari,Semarang,Xiao Long Bao,8,28000,224000.0,Transfer Bank,Berhasil
+DB-01485,2026-10-13 16:44:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,6,24000,144000.0,QRIS,Berhasil
+DB-01486,2026-10-13 17:01:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,10,16000,160000.0,Virtual Account,Berhasil
+DB-01487,2026-10-13 19:10:00,Warung Bahari,Bekasi,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01488,2026-10-14 11:15:00,Gerai Sinar Jaya,Cirebon,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01489,2026-10-14 12:39:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,4,18000,72000.0,Virtual Account,Berhasil
+DB-01490,2026-10-14 12:52:00,Dimsum Kota Tua,Jakarta Barat,Hakau Udang,5,24000,120000.0,QRIS,Berhasil
+DB-01491,2026-10-15 09:04:00,Toko Pelangi,Bogor,Bakpao Coklat,6,13000,78000.0,Transfer Bank,Berhasil
+DB-01492,2026-10-15 10:18:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,2,28000,,QRIS,Berhasil
+DB-01493,2026-10-15 10:26:00,Depot Lestari,Semarang,Cakar Ayam Saus,10,20000,200000.0,Virtual Account,Berhasil
+DB-01494,2026-10-15 11:42:00,Kantin Mawar,Depok,Bakpao Coklat,9,13000,117000.0,QRIS,Berhasil
+DB-01495,2026-10-15 12:46:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,10,20000,200000.0,Transfer Bank,Berhasil
+DB-01496,2026-10-15 13:08:00,Warung Bahari,Bekasi,Bakpao Coklat,3,13000,39000.0,Transfer Bank,Berhasil
+DB-01497,2026-10-15 15:15:00,Resto Naga Emas,Jakarta Utara,Pangsit Goreng,16,14000,224000.0,Transfer Bank,Berhasil
+DB-01498,2026-10-15 15:31:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,3,13000,39000.0,Tunai,Berhasil
+DB-01499,2026-10-15 18:00:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,7,18000,126000.0,QRIS,Berhasil
+DB-01500,2026-10-15 19:37:00,Kedai Sentosa,Tangerang,Siomay Ayam,3,18000,54000.0,Transfer Bank,Gagal
+DB-01501,2026-10-15 19:43:00,Kedai Sentosa,Tangerang,Pangsit Goreng,8,14000,112000.0,Tunai,Berhasil
+DB-01502,2026-10-15 19:56:00,Kantin Mawar,Depok,Siomay Ayam,7,18000,126000.0,Transfer Bank,Gagal
+DB-01503,2026-10-16 11:04:00,Gerai Sinar Jaya,Cirebon,Bakpao Daging,6,15000,90000.0,Transfer Bank,Gagal
+DB-01504,2026-10-16 12:55:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,4,20000,,QRIS,Berhasil
+DB-01505,2026-10-16 18:58:00,Warung Bahari,Bekasi,Siomay Ayam,1,18000,18000.0,Transfer Bank,Berhasil
+DB-01506,2026-10-16 20:14:00,Toko Pelangi,Bogor,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-01507,2026-10-17 12:00:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,10,14000,140000.0,QRIS,Pending
+DB-01508,2026-10-17 12:05:00,Kedai Sentosa,Tangerang,Siomay Ayam,4,18000,72000.0,QRIS,Pending
+DB-01509,2026-10-17 16:10:00,Warung Bahari,Bekasi,Pangsit Goreng,4,14000,56000.0,QRIS,Berhasil
+DB-01510,2026-10-17 17:36:00,Kedai Sentosa,Tangerang,Pangsit Goreng,4,14000,56000.0,Virtual Account,Pending
+DB-01511,2026-10-17 18:48:00,Kedai Sentosa,Tangerang,Cakar Ayam Saus,8,20000,160000.0,Transfer Bank,Berhasil
+DB-01512,2026-10-18 11:37:00,Warung Harmoni,Pekalongan,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01513,2026-10-18 17:02:00,Gerai Sinar Jaya,Cirebon,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Berhasil
+DB-01514,2026-10-18 17:34:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,13,24000,312000.0,Transfer Bank,Berhasil
+DB-01515,2026-10-18 17:40:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,1,16000,16000.0,QRIS,Berhasil
+DB-01516,2026-10-18 18:01:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,2,18000,36000.0,Virtual Account,Berhasil
+DB-01517,2026-10-18 18:19:00,Kafe Teratai,Jakarta Selatan,Pangsit Goreng,7,14000,98000.0,Transfer Bank,Berhasil
+DB-01518,2026-10-18 18:32:00,Kedai Sentosa,Tangerang,Bakpao Coklat,5,13000,65000.0,Transfer Bank,Pending
+DB-01519,2026-10-18 20:40:00,Warung Bahari,Bekasi,Siomay Ayam,2,18000,36000.0,Transfer Bank,Berhasil
+DB-01520,2026-10-19 10:43:00,Warung Bahari,Bekasi,Cakar Ayam Saus,5,20000,100000.0,Tunai,Berhasil
+DB-01521,2026-10-19 14:45:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,6,16000,96000.0,Transfer Bank,Berhasil
+DB-01522,2026-10-19 17:59:00,Kedai Sentosa,Tangerang,Siomay Ayam,4,18000,72000.0,Transfer Bank,Berhasil
+DB-01523,2026-10-19 19:11:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,11,16000,176000.0,Transfer Bank,Berhasil
+DB-01524,2026-10-19 19:25:00,Depot Lestari,Semarang,Xiao Long Bao,5,28000,140000.0,Tunai,Berhasil
+DB-01525,2026-10-19 19:32:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01526,2026-10-20 17:56:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,9,28000,252000.0,QRIS,Berhasil
+DB-01527,2026-10-20 18:06:00,Kedai Sentosa,Tangerang,Xiao Long Bao,2,28000,56000.0,QRIS,Berhasil
+DB-01528,2026-10-20 20:30:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,Virtual Account,Berhasil
+DB-01529,2026-10-21 10:28:00,Kedai Sentosa,Tangerang,Bakpao Coklat,5,13000,65000.0,Transfer Bank,Berhasil
+DB-01530,2026-10-21 11:30:00,Kantin Mawar,Depok,Hakau Udang,7,24000,168000.0,Tunai,Berhasil
+DB-01531,2026-10-21 12:25:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,10,13000,130000.0,Transfer Bank,Berhasil
+DB-01532,2026-10-21 12:54:00,Toko Pelangi,Bogor,Siomay Ayam,5,18000,90000.0,QRIS,Berhasil
+DB-01533,2026-10-21 13:23:00,Kafe Teratai,Jakarta Selatan,Cakar Ayam Saus,5,20000,100000.0,Virtual Account,Berhasil
+DB-01534,2026-10-21 15:53:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Coklat,2,13000,26000.0,Transfer Bank,Berhasil
+DB-01535,2026-10-21 18:13:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,10,13000,130000.0,QRIS,Berhasil
+DB-01536,2026-10-21 19:20:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,19,15000,285000.0,QRIS,Berhasil
+DB-01537,2026-10-22 13:23:00,Toko Pelangi,Bogor,Cakar Ayam Saus,5,20000,100000.0,Transfer Bank,Berhasil
+DB-01538,2026-10-22 17:14:00,Warung Bahari,Bekasi,Xiao Long Bao,4,28000,112000.0,QRIS,Berhasil
+DB-01539,2026-10-22 17:40:00,Kafe Teratai,Jakarta Selatan,Bakpao Coklat,7,13000,91000.0,Transfer Bank,Berhasil
+DB-01540,2026-10-22 18:00:00,Warung Bahari,Bekasi,Hakau Udang,4,24000,96000.0,Transfer Bank,Pending
+DB-01541,2026-10-22 18:28:00,Warung Harmoni,Pekalongan,Hakau Udang,7,24000,168000.0,QRIS,Berhasil
+DB-01542,2026-10-23 15:11:00,Kafe Teratai,Jakarta Selatan,Xiao Long Bao,7,28000,196000.0,QRIS,Gagal
+DB-01543,2026-10-23 19:33:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,QRIS,Berhasil
+DB-01544,2026-10-23 19:44:00,Warung Bahari,Bekasi,Hakau Udang,6,24000,144000.0,Transfer Bank,Gagal
+DB-01545,2026-10-24 12:44:00,Warung Bahari,Bekasi,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-01546,2026-10-24 12:49:00,Warung Bahari,Bekasi,Cakar Ayam Saus,4,20000,80000.0,QRIS,Berhasil
+DB-01547,2026-10-24 17:04:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,9,18000,162000.0,QRIS,Berhasil
+DB-01548,2026-10-24 17:33:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,4,16000,64000.0,Virtual Account,Berhasil
+DB-01549,2026-10-24 17:56:00,Depot Lestari,Semarang,Bakpao Coklat,11,13000,143000.0,Virtual Account,Gagal
+DB-01550,2026-10-24 19:10:00,Warung Bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,QRIS,Berhasil
+DB-01551,2026-10-24 19:44:00,Toko Pelangi,Bogor,Xiao Long Bao,5,28000,,Transfer Bank,Berhasil
+DB-01552,2026-10-25 12:01:00,Gerai Sinar Jaya,Cirebon,Bakpao Coklat,8,13000,104000.0,Transfer Bank,Pending
+DB-01553,2026-10-25 12:13:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,3,20000,60000.0,Transfer Bank,Berhasil
+DB-01554,2026-10-25 12:55:00,Kedai Sentosa,Tangerang,Pangsit Goreng,3,14000,42000.0,QRIS,Berhasil
+DB-01555,2026-10-25 16:05:00,Toko Pelangi,Bogor,Hakau Udang,6,24000,144000.0,QRIS,Berhasil
+DB-01556,2026-10-25 17:25:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,1,28000,28000.0,Virtual Account,Berhasil
+DB-01557,2026-10-25 18:32:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,7,20000,140000.0,Transfer Bank,Berhasil
+DB-01558,2026-10-25 19:07:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-01559,2026-10-25 19:34:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,13,20000,260000.0,QRIS,Berhasil
+DB-01560,2026-10-25 19:40:00,Kafe Teratai,Jakarta Selatan,Siomay Ayam,7,18000,126000.0,Transfer Bank,Berhasil
+DB-01561,2026-10-25 21:38:00,Toko Pelangi,Bogor,Bakpao Coklat,4,13000,52000.0,Transfer Bank,Berhasil
+DB-01562,2026-10-26 12:19:00,Warung Harmoni,Pekalongan,Bakpao Daging,5,15000,75000.0,QRIS,Gagal
+DB-01563,2026-10-26 15:06:00,Warung Bahari,Bekasi,Siomay Ayam,4,18000,72000.0,Tunai,Berhasil
+DB-01564,2026-10-26 17:28:00,Depot Lestari,Semarang,Hakau Udang,9,24000,216000.0,Transfer Bank,Berhasil
+DB-01565,2026-10-26 17:52:00,Resto Naga Emas,Jakarta Utara,Lumpia Kulit Tahu,14,16000,224000.0,QRIS,Berhasil
+DB-01566,2026-10-26 18:34:00,Toko Pelangi,Bogor,Lumpia Kulit Tahu,6,16000,96000.0,Virtual Account,Berhasil
+DB-01567,2026-10-26 19:16:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,4,28000,112000.0,Tunai,Berhasil
+DB-01568,2026-10-26 21:41:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,QRIS,Berhasil
+DB-01569,2026-10-27 12:09:00,Kedai Sentosa,Tangerang,Xiao Long Bao,5,28000,140000.0,Virtual Account,Berhasil
+DB-01570,2026-10-27 12:24:00,Warung Bahari,Bekasi,Pangsit Goreng,1,14000,14000.0,Tunai,Berhasil
+DB-01571,2026-10-27 12:53:00,Warung Bahari,Bekasi,Cakar Ayam Saus,2,20000,40000.0,QRIS,Gagal
+DB-01572,2026-10-27 18:19:00,Dimsum Kota Tua,Jakarta Barat,Cakar Ayam Saus,4,20000,80000.0,QRIS,Berhasil
+DB-01573,2026-10-28 10:13:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,7,20000,140000.0,Virtual Account,Berhasil
+DB-01574,2026-10-28 11:09:00,GERAI SINAR JAYA,Cirebon,Hakau Udang,7,24000,168000.0,Transfer Bank,Berhasil
+DB-01575,2026-10-28 14:36:00,Toko Pelangi,Bogor,Xiao Long Bao,8,28000,224000.0,Transfer Bank,Berhasil
+DB-01576,2026-10-28 15:29:00,Resto Naga Emas,Jakarta Utara,Cakar Ayam Saus,19,20000,380000.0,QRIS,Berhasil
+DB-01577,2026-10-28 20:58:00,Warung Harmoni,Pekalongan,Hakau Udang,3,24000,72000.0,Transfer Bank,Berhasil
+DB-01578,2026-10-29 09:41:00,Warung Harmoni,Pekalongan,Cakar Ayam Saus,2,20000,40000.0,Transfer Bank,Berhasil
+DB-01579,2026-10-29 16:09:00,Kantin Mawar,Depok,Lumpia Kulit Tahu,5,16000,80000.0,QRIS,Berhasil
+DB-01580,2026-10-29 19:26:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,15,15000,225000.0,Virtual Account,Berhasil
+DB-01581,2026-10-29 19:48:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,5,28000,140000.0,Virtual Account,Berhasil
+DB-01582,2026-10-30 12:11:00,Warung Harmoni,Pekalongan,Xiao Long Bao,8,28000,224000.0,Transfer Bank,Berhasil
+DB-01583,2026-10-30 14:30:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,13,28000,364000.0,QRIS,Berhasil
+DB-01584,2026-10-30 15:05:00,Gerai Sinar Jaya,Cirebon,Bakpao Coklat,7,13000,91000.0,QRIS,Berhasil
+DB-01585,2026-10-30 17:39:00,Kedai Sentosa,Tangerang,Pangsit Goreng,2,14000,28000.0,Tunai,Pending
+DB-01586,2026-10-30 19:03:00,Gerai Sinar Jaya,Cirebon,Pangsit Goreng,1,14000,14000.0,Transfer Bank,Gagal
+DB-01587,2026-10-30 20:02:00,warung bahari,Bekasi,Lumpia Kulit Tahu,2,16000,32000.0,Transfer Bank,Gagal
+DB-01588,2026-10-30 20:56:00,Kantin Mawar,Depok,Siomay Ayam,7,18000,126000.0,Tunai,Berhasil
+DB-01589,2026-10-30 21:02:00,Kafe Teratai,Jakarta Selatan,Hakau Udang,7,24000,168000.0,QRIS,Pending
+DB-01590,2026-10-31 09:25:00,Kedai Sentosa,Tangerang,Bakpao Coklat,2,13000,26000.0,QRIS,Berhasil
+DB-01591,2026-10-31 09:28:00,Depot Lestari,Semarang,Lumpia Kulit Tahu,8,16000,128000.0,Virtual Account,Berhasil
+DB-01592,2026-10-31 11:26:00,  Resto Naga Emas ,Jakarta Utara,Cakar Ayam Saus,9,20000,180000.0,QRIS,Berhasil
+DB-01593,2026-10-31 11:37:00,Resto Naga Emas,Jakarta Utara,Bakpao Coklat,11,13000,143000.0,Virtual Account,Berhasil
+DB-01594,2026-10-31 13:17:00,Toko Pelangi,Bogor,Cakar Ayam Saus,9,20000,180000.0,Virtual Account,Berhasil
+DB-01595,2026-10-31 15:37:00,Kedai Sentosa,Tangerang,Lumpia Kulit Tahu,2,16000,,Transfer Bank,Berhasil
+DB-01596,2026-10-31 16:09:00,Warung Bahari,Bekasi,Hakau Udang,2,24000,48000.0,Tunai,Berhasil
+DB-01597,2026-10-31 17:29:00,Resto Naga Emas,Jakarta Utara,Hakau Udang,15,24000,360000.0,QRIS,Berhasil
+DB-01598,2026-10-31 18:36:00,Dimsum Kota Tua,Jakarta Barat,Siomay Ayam,6,18000,108000.0,Transfer Bank,Berhasil
+DB-01599,2026-10-31 18:52:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,3,28000,84000.0,QRIS,Berhasil
+DB-01600,2026-10-31 21:22:00,Warung Harmoni,Pekalongan,Xiao Long Bao,3,28000,84000.0,Transfer Bank,Pending
+DB-01528,2026-10-20 20:30:00,Dimsum Kota Tua,Jakarta Barat,Bakpao Daging,3,15000,45000.0,Virtual Account,Berhasil
+DB-00618,2026-05-15 12:45:00,Kedai Sentosa,Tangerang,Bakpao Daging,8,15000,120000.0,Virtual Account,Pending
+DB-00949,2026-07-13 10:58:00,Kantin Mawar,Depok,Hakau Udang,9,24000,216000.0,QRIS,Berhasil
+DB-00059,2026-01-17 19:52:00,Kantin Mawar,Depok,Pangsit Goreng,6,14000,84000.0,Transfer Bank,Berhasil
+DB-01353,2026-09-21 12:23:00,Resto Naga Emas,Jakarta Utara,Siomay Ayam,21,18000,378000.0,Transfer Bank,Berhasil
+DB-01151,2026-08-19 12:16:00,Dimsum Kota Tua,Jakarta Barat,Lumpia Kulit Tahu,4,16000,64000.0,QRIS,Berhasil
+DB-00761,2026-06-08 16:40:00,Gerai Sinar Jaya,Cirebon,Siomay Ayam,4,18000,72000.0,Transfer Bank,Pending
+DB-01078,2026-08-04 18:19:00,Depot Lestari,Semarang,Siomay Ayam,10,18000,180000.0,Virtual Account,Berhasil
+DB-00352,2026-03-18 11:41:00,Resto Naga Emas,Jakarta Utara,Xiao Long Bao,24,28000,672000.0,Transfer Bank,Berhasil
+DB-00772,2026-06-10 20:16:00,Depot Lestari,Semarang,Xiao Long Bao,8,28000,224000.0,Tunai,Berhasil
+DB-01050,2026-07-31 17:01:00,Gerai Sinar Jaya,Cirebon,Cakar Ayam Saus,7,20000,140000.0,QRIS,Gagal
+DB-00801,2026-06-15 10:17:00,Resto Naga Emas,Jakarta Utara,Bakpao Daging,15,15000,225000.0,QRIS,Berhasil
+DB-00433,2026-04-04 19:12:00,Gerai Sinar Jaya,Cirebon,Hakau Udang,6,24000,144000.0,Transfer Bank,Pending
+DB-00987,2026-07-20 11:38:00,Dimsum Kota Tua,Jakarta Barat,Xiao Long Bao,6,28000,168000.0,Transfer Bank,Pending
+DB-00889,2026-07-03 21:01:00,Depot Lestari,Semarang,Bakpao Daging,5,15000,75000.0,Virtual Account,Pending
+DB-00072,2026-01-21 11:11:00,Warung Harmoni,Pekalongan,Bakpao Daging,3,15000,45000.0,QRIS,Gagal
+DB-01415,2026-10-02 18:34:00,Kedai Sentosa,Tangerang,Bakpao Daging,3,15000,45000.0,Virtual Account,Berhasil
+DB-00168,2026-02-14 17:50:00,Kedai Sentosa,Tangerang,Xiao Long Bao,9,28000,252000.0,Transfer Bank,Gagal
