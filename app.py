@@ -16,7 +16,7 @@ st.markdown("""
       padding:1.6rem 2rem;border-radius:18px;margin-bottom:1rem}
 .hero h1{margin:0;font-size:2.1rem;color:#FFF4E0}
 .hero p{margin:.3rem 0 0;opacity:.9}
-div[data-testid="stMetric"] *{color:#2B1B17 !important}
+div[data-testid="stMetricValue"]{font-size:1.5rem} *{color:#2B1B17 !important}
 .insight, .insight *{color:#2B1B17 !important}
 .insight{background:#F6EBDD;border-left:5px solid #B3261E;padding:.7rem 1rem;border-radius:8px;margin-top:.4rem}
 </style>
@@ -29,6 +29,7 @@ div[data-testid="stMetric"] *{color:#2B1B17 !important}
 
 @st.cache_data(show_spinner=False)
 def muat(sumber):
+
     raw = an.load_raw(sumber) if sumber is not None else an.load_raw()
     kurang = [k for k in an.KOLOM_WAJIB if k not in raw.columns]
     if kurang:
@@ -131,7 +132,7 @@ with tabs[7]:
     st.subheader("Kelompok Proyek UTS Data Science")
     st.table(pd.DataFrame({
         "No": [1, 2, 3],
-        "Nama": ["Muhammad Frilliant Ilyas", "Amar Bin Munif Dahbul", "Daffa Sidqi Irfada"],
+        "Nama": ["Muhammad Frilliant Ilyas", "Ammar Bin Munif Dahbul", "Daffa Sidqi Irfada"],
         "NIM": ["25.240.0018", "25.240.0056", "25.240.0017"],
     }).set_index("No"))
     st.caption("Data pada dashboard ini adalah data simulasi untuk keperluan pembelajaran.")
